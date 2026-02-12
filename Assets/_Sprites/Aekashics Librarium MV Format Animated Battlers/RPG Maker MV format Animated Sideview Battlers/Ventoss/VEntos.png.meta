@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: 4a1f762c3f9bf5e488362c524c6d9f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6186290748072293391
+    second: VEntos_0
+  - first:
+      213: -7246782999380543049
+    second: VEntos_1
+  - first:
+      213: -3153444730216171917
+    second: VEntos_2
+  - first:
+      213: -7088472027040618940
+    second: VEntos_3
+  - first:
+      213: -4058545209892951945
+    second: VEntos_4
+  - first:
+      213: 6679233597884641091
+    second: VEntos_5
+  - first:
+      213: 4131479947053841543
+    second: VEntos_6
+  - first:
+      213: -6524703796594653765
+    second: VEntos_7
+  - first:
+      213: 984728168099156301
+    second: VEntos_8
+  - first:
+      213: -4893394888895015178
+    second: VEntos_9
+  - first:
+      213: 2893501664107389958
+    second: VEntos_10
+  - first:
+      213: 2352999490873683921
+    second: VEntos_11
+  - first:
+      213: -5837808176557616672
+    second: VEntos_12
+  - first:
+      213: -8307832835217363460
+    second: VEntos_13
+  - first:
+      213: -1011405044307741353
+    second: VEntos_14
+  - first:
+      213: -852735846985485534
+    second: VEntos_15
+  - first:
+      213: -551415713973383610
+    second: VEntos_16
+  - first:
+      213: 9118605229261302724
+    second: VEntos_17
+  - first:
+      213: -4628987164597194565
+    second: VEntos_18
+  - first:
+      213: -2449906059730135988
+    second: VEntos_19
+  - first:
+      213: 799203362913647191
+    second: VEntos_20
+  - first:
+      213: -5057915609972160526
+    second: VEntos_21
+  - first:
+      213: -3194370166078565824
+    second: VEntos_22
+  - first:
+      213: -2938268689469290391
+    second: VEntos_23
+  - first:
+      213: -3796704490326509034
+    second: VEntos_24
+  - first:
+      213: 6307737830079256702
+    second: VEntos_25
+  - first:
+      213: 8463244896074569755
+    second: VEntos_26
+  - first:
+      213: -6985774933702485638
+    second: VEntos_27
+  - first:
+      213: -5281711127888252593
+    second: VEntos_28
+  - first:
+      213: 3181716528550966929
+    second: VEntos_29
+  - first:
+      213: -3920420043309503076
+    second: VEntos_30
+  - first:
+      213: 750728845187918959
+    second: VEntos_31
+  - first:
+      213: 1087055567247694871
+    second: VEntos_32
+  - first:
+      213: 822233677231793425
+    second: VEntos_33
+  - first:
+      213: 181801552764193239
+    second: VEntos_34
+  - first:
+      213: 2758474834889308071
+    second: VEntos_35
+  - first:
+      213: 734465038373309939
+    second: VEntos_36
+  - first:
+      213: -3362922245206342957
+    second: VEntos_37
+  - first:
+      213: -6095629921019958973
+    second: VEntos_38
+  - first:
+      213: -6328913113841784334
+    second: VEntos_39
+  - first:
+      213: 9143872552415855510
+    second: VEntos_40
+  - first:
+      213: 3910061341560828683
+    second: VEntos_41
+  - first:
+      213: -9201436781510276375
+    second: VEntos_42
+  - first:
+      213: 110944317285574744
+    second: VEntos_43
+  - first:
+      213: -71164797028227531
+    second: VEntos_44
+  - first:
+      213: 8464465489142429012
+    second: VEntos_45
+  - first:
+      213: 6169200614332207560
+    second: VEntos_46
+  - first:
+      213: 7077502035259862558
+    second: VEntos_47
+  - first:
+      213: -2635994624613024269
+    second: VEntos_48
+  - first:
+      213: 6645557208485709734
+    second: VEntos_49
+  - first:
+      213: 158027308984456986
+    second: VEntos_50
+  - first:
+      213: -4833677102270224759
+    second: VEntos_51
+  - first:
+      213: 4746890961779436486
+    second: VEntos_52
+  - first:
+      213: -6688795353561894612
+    second: VEntos_53
+  - first:
+      213: -6975655878430957127
+    second: VEntos_54
+  - first:
+      213: -4208122738070946492
+    second: VEntos_55
+  - first:
+      213: 7196332801455528493
+    second: VEntos_56
+  - first:
+      213: -2817844173655474758
+    second: VEntos_57
+  - first:
+      213: -6673765085774623880
+    second: VEntos_58
+  - first:
+      213: -6408895335440776292
+    second: VEntos_59
+  - first:
+      213: -9183522719518432910
+    second: VEntos_60
+  - first:
+      213: 5035415977836936799
+    second: VEntos_61
+  - first:
+      213: 8511667378172721112
+    second: VEntos_62
+  - first:
+      213: -8907056123943145510
+    second: VEntos_63
+  - first:
+      213: -8873591445124551967
+    second: VEntos_64
+  - first:
+      213: -2622547376129339863
+    second: VEntos_65
+  - first:
+      213: 871205311708907107
+    second: VEntos_66
+  - first:
+      213: -6769127834731653089
+    second: VEntos_67
+  - first:
+      213: 5869792404670995598
+    second: VEntos_68
+  - first:
+      213: -794352516629998939
+    second: VEntos_69
+  - first:
+      213: 3178284973188191145
+    second: VEntos_70
+  - first:
+      213: 254879710191135322
+    second: VEntos_71
+  - first:
+      213: -2992607055199280661
+    second: VEntos_72
+  - first:
+      213: -4786359643751599474
+    second: VEntos_73
+  - first:
+      213: 7101322804827157924
+    second: VEntos_74
+  - first:
+      213: -652729361348556650
+    second: VEntos_75
+  - first:
+      213: -8295820512538058741
+    second: VEntos_76
+  - first:
+      213: 8252001174893630733
+    second: VEntos_77
+  - first:
+      213: 8220239381120739901
+    second: VEntos_78
+  - first:
+      213: 6584746092220906498
+    second: VEntos_79
+  - first:
+      213: -2636615536060157948
+    second: VEntos_80
+  - first:
+      213: 2152941629899180680
+    second: VEntos_81
+  - first:
+      213: -3498771646219004906
+    second: VEntos_82
+  - first:
+      213: 54979919444967599
+    second: VEntos_83
+  - first:
+      213: -8541425936160254329
+    second: VEntos_84
+  - first:
+      213: 3957622862088739601
+    second: VEntos_85
+  - first:
+      213: -6326942721235113860
+    second: VEntos_86
+  - first:
+      213: 710175040152168256
+    second: VEntos_87
+  - first:
+      213: -4883135230290914824
+    second: VEntos_88
+  - first:
+      213: -3127213580997548120
+    second: VEntos_89
+  - first:
+      213: -173543267956654998
+    second: VEntos_90
+  - first:
+      213: 7958956603041855875
+    second: VEntos_91
+  - first:
+      213: 4053402561059236342
+    second: VEntos_92
+  - first:
+      213: -5174238502481461725
+    second: VEntos_93
+  - first:
+      213: 6166853169401216654
+    second: VEntos_94
+  - first:
+      213: -7599824293986330180
+    second: VEntos_95
+  - first:
+      213: -7082009853110737712
+    second: VEntos_96
+  - first:
+      213: -5947290325653969302
+    second: VEntos_97
+  - first:
+      213: 140613634647039756
+    second: VEntos_98
+  - first:
+      213: -387520297178745076
+    second: VEntos_99
+  - first:
+      213: -3311137032420184937
+    second: VEntos_100
+  - first:
+      213: 7976142709567205579
+    second: VEntos_101
+  - first:
+      213: 8436361547115186110
+    second: VEntos_102
+  - first:
+      213: 7827166938591977217
+    second: VEntos_103
+  - first:
+      213: -2207877744296791816
+    second: VEntos_104
+  - first:
+      213: 3544153125635018177
+    second: VEntos_105
+  - first:
+      213: -9073326691002709221
+    second: VEntos_106
+  - first:
+      213: 8812267494747551244
+    second: VEntos_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VEntos_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1978
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f047224b8ae1ad550800000000000000
+      internalID: 6186290748072293391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1980
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b93595d1414e6b90800000000000000
+      internalID: -7246782999380543049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1982
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37633acb9b6bc34d0800000000000000
+      internalID: -3153444730216171917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1982
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44663fb6f30b0ad90800000000000000
+      internalID: -7088472027040618940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_4
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1978
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a77b72a62da7c0800000000000000
+      internalID: -4058545209892951945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_5
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1978
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa4c5b19761bc50800000000000000
+      internalID: 6679233597884641091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_6
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3bc05f17f55930800000000000000
+      internalID: 4131479947053841543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_7
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5455367789375a0800000000000000
+      internalID: -6524703796594653765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_8
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d411fd33d057aad00800000000000000
+      internalID: 984728168099156301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f653bd564b271cb0800000000000000
+      internalID: -4893394888895015178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046f1ede68c72820800000000000000
+      internalID: 2893501664107389958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df633af19887a020800000000000000
+      internalID: 2352999490873683921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e19969b460fbfea0800000000000000
+      internalID: -5837808176557616672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdea8b9d06a4bc80800000000000000
+      internalID: -8307832835217363460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_14
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755bff98874c6f1f0800000000000000
+      internalID: -1011405044307741353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_15
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2233031e3497a24f0800000000000000
+      internalID: -852735846985485534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_16
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e4c05645af858f0800000000000000
+      internalID: -551415713973383610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_17
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba321c42bcb8e70800000000000000
+      internalID: 9118605229261302724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1594
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0775003b882cfb0800000000000000
+      internalID: -4628987164597194565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1596
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4455b83b6f200ed0800000000000000
+      internalID: -2449906059730135988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af3c56937571b00800000000000000
+      internalID: 799203362913647191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_21
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c4bbfc8caec9b0800000000000000
+      internalID: -5057915609972160526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_22
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1594
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04218c922415ba3d0800000000000000
+      internalID: -3194370166078565824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_23
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1594
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c78dc13c2937d0800000000000000
+      internalID: -2938268689469290391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_24
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1594
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a35f0c1656f4bc0800000000000000
+      internalID: -3796704490326509034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_25
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1596
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78da2af226998750800000000000000
+      internalID: 6307737830079256702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_26
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1899ad846c737570800000000000000
+      internalID: 8463244896074569755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d5d3c5ba8d0f90800000000000000
+      internalID: -6985774933702485638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413eff76b793b6b0800000000000000
+      internalID: -5281711127888252593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_29
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196f444435ab72c20800000000000000
+      internalID: 3181716528550966929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_30
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d273cedbed799c0800000000000000
+      internalID: -3920420043309503076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_31
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca01c38ef1b6a00800000000000000
+      internalID: 750728845187918959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_32
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cd8e8674ff51f00800000000000000
+      internalID: 1087055567247694871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_33
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115a3cd4c29296b00800000000000000
+      internalID: 822233677231793425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_34
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9cf1c8c83e58200800000000000000
+      internalID: 181801552764193239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_35
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a77e6f4f32184620800000000000000
+      internalID: 2758474834889308071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1210
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd4f20af08513a00800000000000000
+      internalID: 734465038373309939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1212
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2873719008451d0800000000000000
+      internalID: -3362922245206342957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1214
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ec5302e8f76ba0800000000000000
+      internalID: -6095629921019958973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_39
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1214
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f926231e0f2b28a0800000000000000
+      internalID: -6328913113841784334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_40
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1210
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693013ed3af85ee70800000000000000
+      internalID: 9143872552415855510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_41
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1210
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0378b1e214534630800000000000000
+      internalID: 3910061341560828683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_42
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1210
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eacdde9ffded4080800000000000000
+      internalID: -9201436781510276375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_43
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1211
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a7adc4472a8100800000000000000
+      internalID: 110944317285574744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_44
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1212
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ae908efb230ff0800000000000000
+      internalID: -71164797028227531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45533e50482d77570800000000000000
+      internalID: 8464465489142429012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_46
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1946dd5476d9550800000000000000
+      internalID: 6169200614332207560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_47
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea4c45a96583260800000000000000
+      internalID: 7077502035259862558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_48
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf912ead01b6bd0800000000000000
+      internalID: -2635994624613024269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_49
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c35a4213c93c50800000000000000
+      internalID: 6645557208485709734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_50
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1754d0100d613200800000000000000
+      internalID: 158027308984456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_51
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866e3019445becb0800000000000000
+      internalID: -4833677102270224759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_52
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb206cfd2850e140800000000000000
+      internalID: 4746890961779436486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_53
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f8af8010ac23a0800000000000000
+      internalID: -6688795353561894612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e1caefed713f90800000000000000
+      internalID: -6975655878430957127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 828
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d79025aaeb995c0800000000000000
+      internalID: -4208122738070946492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_56
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 830
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a9f3c1e828ed360800000000000000
+      internalID: 7196332801455528493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_57
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 830
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7cd457a105e8d0800000000000000
+      internalID: -2817844173655474758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_58
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 826
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bcffb73060263a0800000000000000
+      internalID: -6673765085774623880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_59
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 826
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930560f5a70f07a0800000000000000
+      internalID: -6408895335440776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_60
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 826
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271ef543eb29d8080800000000000000
+      internalID: -9183522719518432910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_61
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 827
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5efb4f272461e540800000000000000
+      internalID: 5035415977836936799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_62
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 828
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f34a32648f1670800000000000000
+      internalID: 8511667378172721112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfa6e995a7c36480800000000000000
+      internalID: -8907056123943145510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae76f489baad480800000000000000
+      internalID: -8873591445124551967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_65
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8d276e07da9bd0800000000000000
+      internalID: -2622547376129339863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_66
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c7da7d94271c00800000000000000
+      internalID: 871205311708907107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_67
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f185c93491a3f02a0800000000000000
+      internalID: -6769127834731653089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_68
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c53b1b711b57150800000000000000
+      internalID: 5869792404670995598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_69
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d4d34894e9f4f0800000000000000
+      internalID: -794352516629998939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_70
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a318d508598b1c20800000000000000
+      internalID: 3178284973188191145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_71
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa56afeb3898300800000000000000
+      internalID: 254879710191135322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e4822dbf1876d0800000000000000
+      internalID: -2992607055199280661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_73
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82bbe2634f639db0800000000000000
+      internalID: -4786359643751599474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_74
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57a117777fc8260800000000000000
+      internalID: 7101322804827157924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_75
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 446
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6980a5aaa1a01f6f0800000000000000
+      internalID: -652729361348556650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_76
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 442
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0025cd62335fdc80800000000000000
+      internalID: -8295820512538058741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_77
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 442
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0514abf85ff48270800000000000000
+      internalID: 8252001174893630733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_78
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 442
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae0681a28241270800000000000000
+      internalID: 8220239381120739901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_79
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 443
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf7f2fea7b16b50800000000000000
+      internalID: 6584746092220906498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_80
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 444
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400bbdba32cd86bd0800000000000000
+      internalID: -2636615536060157948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8a407109c0ed10800000000000000
+      internalID: 2152941629899180680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61458ec99bdd17fc0800000000000000
+      internalID: -3498771646219004906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_83
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa00c4802f353c000800000000000000
+      internalID: 54979919444967599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_84
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 90
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861cdf8d52c67980800000000000000
+      internalID: -8541425936160254329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_85
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b93c1560d4ce630800000000000000
+      internalID: 3957622862088739601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_86
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78a98add1f2238a0800000000000000
+      internalID: -6326942721235113860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_87
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476e94bf6c0bd900800000000000000
+      internalID: 710175040152168256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_88
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f19058416e9b3cb0800000000000000
+      internalID: -4883135230290914824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_89
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a72dd711d7e994d0800000000000000
+      internalID: -3127213580997548120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_90
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c78483153779df0800000000000000
+      internalID: -173543267956654998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893f03bcd4e37e60800000000000000
+      internalID: 7958956603041855875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_92
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f928974724904830800000000000000
+      internalID: 4053402561059236342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_93
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e717c0f796138b0800000000000000
+      internalID: -5174238502481461725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_94
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 86
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb620c840159550800000000000000
+      internalID: 6166853169401216654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_95
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 86
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb99f89f110088690800000000000000
+      internalID: -7599824293986330180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_96
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a4898f85a7bd90800000000000000
+      internalID: -7082009853110737712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_97
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66274b75faf67da0800000000000000
+      internalID: -5947290325653969302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_98
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f96bf0b5f83f100800000000000000
+      internalID: 140613634647039756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_99
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c073867c7504f9af0800000000000000
+      internalID: -387520297178745076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_100
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c24f3896a7c02d0800000000000000
+      internalID: -3311137032420184937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_101
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03391f883f0be60800000000000000
+      internalID: 7976142709567205579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7c09c112af31570800000000000000
+      internalID: 8436361547115186110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_103
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fd47c4cdeaf9c60800000000000000
+      internalID: 7827166938591977217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_104
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f2bfa3ea0c51e0800000000000000
+      internalID: -2207877744296791816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_105
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc0137d7c5f2130800000000000000
+      internalID: 3544153125635018177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_106
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b86b37271151280800000000000000
+      internalID: -9073326691002709221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VEntos_107
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06362ad8967b4a70800000000000000
+      internalID: 8812267494747551244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VEntos_0: 6186290748072293391
+      VEntos_1: -7246782999380543049
+      VEntos_10: 2893501664107389958
+      VEntos_100: -3311137032420184937
+      VEntos_101: 7976142709567205579
+      VEntos_102: 8436361547115186110
+      VEntos_103: 7827166938591977217
+      VEntos_104: -2207877744296791816
+      VEntos_105: 3544153125635018177
+      VEntos_106: -9073326691002709221
+      VEntos_107: 8812267494747551244
+      VEntos_11: 2352999490873683921
+      VEntos_12: -5837808176557616672
+      VEntos_13: -8307832835217363460
+      VEntos_14: -1011405044307741353
+      VEntos_15: -852735846985485534
+      VEntos_16: -551415713973383610
+      VEntos_17: 9118605229261302724
+      VEntos_18: -4628987164597194565
+      VEntos_19: -2449906059730135988
+      VEntos_2: -3153444730216171917
+      VEntos_20: 799203362913647191
+      VEntos_21: -5057915609972160526
+      VEntos_22: -3194370166078565824
+      VEntos_23: -2938268689469290391
+      VEntos_24: -3796704490326509034
+      VEntos_25: 6307737830079256702
+      VEntos_26: 8463244896074569755
+      VEntos_27: -6985774933702485638
+      VEntos_28: -5281711127888252593
+      VEntos_29: 3181716528550966929
+      VEntos_3: -7088472027040618940
+      VEntos_30: -3920420043309503076
+      VEntos_31: 750728845187918959
+      VEntos_32: 1087055567247694871
+      VEntos_33: 822233677231793425
+      VEntos_34: 181801552764193239
+      VEntos_35: 2758474834889308071
+      VEntos_36: 734465038373309939
+      VEntos_37: -3362922245206342957
+      VEntos_38: -6095629921019958973
+      VEntos_39: -6328913113841784334
+      VEntos_4: -4058545209892951945
+      VEntos_40: 9143872552415855510
+      VEntos_41: 3910061341560828683
+      VEntos_42: -9201436781510276375
+      VEntos_43: 110944317285574744
+      VEntos_44: -71164797028227531
+      VEntos_45: 8464465489142429012
+      VEntos_46: 6169200614332207560
+      VEntos_47: 7077502035259862558
+      VEntos_48: -2635994624613024269
+      VEntos_49: 6645557208485709734
+      VEntos_5: 6679233597884641091
+      VEntos_50: 158027308984456986
+      VEntos_51: -4833677102270224759
+      VEntos_52: 4746890961779436486
+      VEntos_53: -6688795353561894612
+      VEntos_54: -6975655878430957127
+      VEntos_55: -4208122738070946492
+      VEntos_56: 7196332801455528493
+      VEntos_57: -2817844173655474758
+      VEntos_58: -6673765085774623880
+      VEntos_59: -6408895335440776292
+      VEntos_6: 4131479947053841543
+      VEntos_60: -9183522719518432910
+      VEntos_61: 5035415977836936799
+      VEntos_62: 8511667378172721112
+      VEntos_63: -8907056123943145510
+      VEntos_64: -8873591445124551967
+      VEntos_65: -2622547376129339863
+      VEntos_66: 871205311708907107
+      VEntos_67: -6769127834731653089
+      VEntos_68: 5869792404670995598
+      VEntos_69: -794352516629998939
+      VEntos_7: -6524703796594653765
+      VEntos_70: 3178284973188191145
+      VEntos_71: 254879710191135322
+      VEntos_72: -2992607055199280661
+      VEntos_73: -4786359643751599474
+      VEntos_74: 7101322804827157924
+      VEntos_75: -652729361348556650
+      VEntos_76: -8295820512538058741
+      VEntos_77: 8252001174893630733
+      VEntos_78: 8220239381120739901
+      VEntos_79: 6584746092220906498
+      VEntos_8: 984728168099156301
+      VEntos_80: -2636615536060157948
+      VEntos_81: 2152941629899180680
+      VEntos_82: -3498771646219004906
+      VEntos_83: 54979919444967599
+      VEntos_84: -8541425936160254329
+      VEntos_85: 3957622862088739601
+      VEntos_86: -6326942721235113860
+      VEntos_87: 710175040152168256
+      VEntos_88: -4883135230290914824
+      VEntos_89: -3127213580997548120
+      VEntos_9: -4893394888895015178
+      VEntos_90: -173543267956654998
+      VEntos_91: 7958956603041855875
+      VEntos_92: 4053402561059236342
+      VEntos_93: -5174238502481461725
+      VEntos_94: 6166853169401216654
+      VEntos_95: -7599824293986330180
+      VEntos_96: -7082009853110737712
+      VEntos_97: -5947290325653969302
+      VEntos_98: 140613634647039756
+      VEntos_99: -387520297178745076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

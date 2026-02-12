@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 242dda2c9092e2d41bc645432833c387
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2583873518698396977
+    second: Alstreim2_0
+  - first:
+      213: 30742473508804859
+    second: Alstreim2_1
+  - first:
+      213: 8680209223373493850
+    second: Alstreim2_2
+  - first:
+      213: -8439750188203867770
+    second: Alstreim2_3
+  - first:
+      213: -7843740733326497277
+    second: Alstreim2_4
+  - first:
+      213: -4954435402895505341
+    second: Alstreim2_5
+  - first:
+      213: -6557671586438651576
+    second: Alstreim2_6
+  - first:
+      213: -2634194614062223111
+    second: Alstreim2_7
+  - first:
+      213: 5132139068669390220
+    second: Alstreim2_8
+  - first:
+      213: 3333748737707570319
+    second: Alstreim2_9
+  - first:
+      213: 1038809788105061881
+    second: Alstreim2_10
+  - first:
+      213: 7459877095243785808
+    second: Alstreim2_11
+  - first:
+      213: 2230723442008148900
+    second: Alstreim2_12
+  - first:
+      213: 6219609553610085881
+    second: Alstreim2_13
+  - first:
+      213: 5433814171476295423
+    second: Alstreim2_14
+  - first:
+      213: 8184700172721933976
+    second: Alstreim2_15
+  - first:
+      213: -7389366321547910442
+    second: Alstreim2_16
+  - first:
+      213: 1353913082623306516
+    second: Alstreim2_17
+  - first:
+      213: 3502085416214843876
+    second: Alstreim2_18
+  - first:
+      213: 952957637667787323
+    second: Alstreim2_19
+  - first:
+      213: 6734686143636125982
+    second: Alstreim2_20
+  - first:
+      213: 2362059776424252248
+    second: Alstreim2_21
+  - first:
+      213: -1018172933211500285
+    second: Alstreim2_22
+  - first:
+      213: 9121170221594708424
+    second: Alstreim2_23
+  - first:
+      213: -3291014028209834883
+    second: Alstreim2_24
+  - first:
+      213: 1359422937175997255
+    second: Alstreim2_25
+  - first:
+      213: -2583455919498551606
+    second: Alstreim2_26
+  - first:
+      213: 5212681050356657008
+    second: Alstreim2_27
+  - first:
+      213: -990090150983365338
+    second: Alstreim2_28
+  - first:
+      213: -6688705143327171158
+    second: Alstreim2_29
+  - first:
+      213: 529336078660752880
+    second: Alstreim2_30
+  - first:
+      213: -7193507574710857825
+    second: Alstreim2_31
+  - first:
+      213: 2930088146814873151
+    second: Alstreim2_32
+  - first:
+      213: 1950141868923141331
+    second: Alstreim2_33
+  - first:
+      213: -1934727370617535774
+    second: Alstreim2_34
+  - first:
+      213: -7080884169047093311
+    second: Alstreim2_35
+  - first:
+      213: 4205858458057771245
+    second: Alstreim2_36
+  - first:
+      213: -4070286165140663860
+    second: Alstreim2_37
+  - first:
+      213: -8868180170848313203
+    second: Alstreim2_38
+  - first:
+      213: -6629622290278856140
+    second: Alstreim2_39
+  - first:
+      213: 2079982497330091052
+    second: Alstreim2_40
+  - first:
+      213: -4042694209068154350
+    second: Alstreim2_41
+  - first:
+      213: -5676388119815594648
+    second: Alstreim2_42
+  - first:
+      213: 6876533163698988319
+    second: Alstreim2_43
+  - first:
+      213: 1410845285775121282
+    second: Alstreim2_44
+  - first:
+      213: -8540690238956114894
+    second: Alstreim2_45
+  - first:
+      213: -3015434718899361599
+    second: Alstreim2_46
+  - first:
+      213: 381991243946046769
+    second: Alstreim2_47
+  - first:
+      213: 4955230212209558891
+    second: Alstreim2_48
+  - first:
+      213: -8771719537833314492
+    second: Alstreim2_49
+  - first:
+      213: -4080015992209813680
+    second: Alstreim2_50
+  - first:
+      213: -7753703732428153633
+    second: Alstreim2_51
+  - first:
+      213: 4419188985919818828
+    second: Alstreim2_52
+  - first:
+      213: 4781521075411338945
+    second: Alstreim2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alstreim2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2817589bc342cd0800000000000000
+      internalID: -2583873518698396977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85205ed183d6000800000000000000
+      internalID: 30742473508804859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1279
+        width: 240
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561f378c4c467870800000000000000
+      internalID: 8680209223373493850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1279
+        width: 252
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68182176bebffda80800000000000000
+      internalID: -8439750188203867770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1278
+        width: 260
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aefc76c5f652390800000000000000
+      internalID: -7843740733326497277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_5
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484bc3304f4e3bb0800000000000000
+      internalID: -4954435402895505341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e6a8af687ef4a0800000000000000
+      internalID: -6557671586438651576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_7
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f29f74f5717bd0800000000000000
+      internalID: -2634194614062223111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1279
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d61fdaa45093740800000000000000
+      internalID: 5132139068669390220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84777160dad34e20800000000000000
+      internalID: 3333748737707570319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f573399ff79a6e00800000000000000
+      internalID: 1038809788105061881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056241aa1bec68760800000000000000
+      internalID: 7459877095243785808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1023
+        width: 258
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab4801d62f15fe10800000000000000
+      internalID: 2230723442008148900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 767
+        width: 219
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f51e84afed705650800000000000000
+      internalID: 6219609553610085881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_14
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1023
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef35a0339c86b40800000000000000
+      internalID: 5433814171476295423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 766
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4b245175e59170800000000000000
+      internalID: 8184700172721933976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2e6e82b72b37990800000000000000
+      internalID: -7389366321547910442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_17
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b248a76c01ac210800000000000000
+      internalID: 1353913082623306516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1023
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1df869128e99030800000000000000
+      internalID: 3502085416214843876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_19
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1023
+        width: 240
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321f272ce5993d00800000000000000
+      internalID: 952957637667787323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 767
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e193d21ad59667d50800000000000000
+      internalID: 6734686143636125982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 511
+        width: 220
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85391081ad8b7c020800000000000000
+      internalID: 2362059776424252248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 767
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d20c9c19bed1f0800000000000000
+      internalID: -1018172933211500285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 511
+        width: 219
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c906029df7e49e70800000000000000
+      internalID: 9121170221594708424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 767
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b9b98d28f352d0800000000000000
+      internalID: -3291014028209834883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 511
+        width: 220
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bb4e575f3add210800000000000000
+      internalID: 1359422937175997255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_26
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 767
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace98696788b52cd0800000000000000
+      internalID: -2583455919498551606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_27
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 767
+        width: 239
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b2bed1cc9275840800000000000000
+      internalID: 5212681050356657008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_28
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 767
+        width: 239
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d060fd04e7242f0800000000000000
+      internalID: -990090150983365338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_29
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 767
+        width: 241
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd7a44c12fc23a0800000000000000
+      internalID: -6688705143327171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_30
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 511
+        width: 252
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f55f57eb54985700800000000000000
+      internalID: 529336078660752880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_31
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 256
+        width: 219
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f074049f68b2c90800000000000000
+      internalID: -7193507574710857825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_32
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 255
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eab7f25a3c9a820800000000000000
+      internalID: 2930088146814873151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 511
+        width: 260
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb7ce82bb401b10800000000000000
+      internalID: 1950141868923141331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_34
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 511
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2cd1105b77625e0800000000000000
+      internalID: -1934727370617535774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_35
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 511
+        width: 239
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfc2484d55abbd90800000000000000
+      internalID: -7080884169047093311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_36
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 511
+        width: 239
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80b18ebf53e5a30800000000000000
+      internalID: 4205858458057771245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_37
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 511
+        width: 241
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc19a905c407387c0800000000000000
+      internalID: -4070286165140663860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806c68ce15ede480800000000000000
+      internalID: -8868180170848313203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43acae8f6a9def3a0800000000000000
+      internalID: -6629622290278856140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_40
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24d364af059ddc10800000000000000
+      internalID: 2079982497330091052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_41
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 256
+        width: 241
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c6f4390775e7c0800000000000000
+      internalID: -4042694209068154350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_42
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 255
+        width: 239
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dd42f641b6931b0800000000000000
+      internalID: -5676388119815594648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 255
+        width: 239
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15a87c9a7a5e6f50800000000000000
+      internalID: 6876533163698988319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_44
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 255
+        width: 241
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b19abff44549310800000000000000
+      internalID: 1410845285775121282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cef5a6a7f597980800000000000000
+      internalID: -8540690238956114894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8af9089160726d0800000000000000
+      internalID: -3015434718899361599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_47
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135b6b2330b1d4500800000000000000
+      internalID: 381991243946046769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_48
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 252
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65c803cf9384c440800000000000000
+      internalID: 4955230212209558891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_49
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 260
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447771e0e87944680800000000000000
+      internalID: -8771719537833314492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_50
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fcb6a621fd067c0800000000000000
+      internalID: -4080015992209813680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_51
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcdff6498f456490800000000000000
+      internalID: -7753703732428153633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_52
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 0
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc11508fc145d30800000000000000
+      internalID: 4419188985919818828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alstreim2_53
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6cfe1a5106b5240800000000000000
+      internalID: 4781521075411338945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alstreim2_0: -2583873518698396977
+      Alstreim2_1: 30742473508804859
+      Alstreim2_10: 1038809788105061881
+      Alstreim2_11: 7459877095243785808
+      Alstreim2_12: 2230723442008148900
+      Alstreim2_13: 6219609553610085881
+      Alstreim2_14: 5433814171476295423
+      Alstreim2_15: 8184700172721933976
+      Alstreim2_16: -7389366321547910442
+      Alstreim2_17: 1353913082623306516
+      Alstreim2_18: 3502085416214843876
+      Alstreim2_19: 952957637667787323
+      Alstreim2_2: 8680209223373493850
+      Alstreim2_20: 6734686143636125982
+      Alstreim2_21: 2362059776424252248
+      Alstreim2_22: -1018172933211500285
+      Alstreim2_23: 9121170221594708424
+      Alstreim2_24: -3291014028209834883
+      Alstreim2_25: 1359422937175997255
+      Alstreim2_26: -2583455919498551606
+      Alstreim2_27: 5212681050356657008
+      Alstreim2_28: -990090150983365338
+      Alstreim2_29: -6688705143327171158
+      Alstreim2_3: -8439750188203867770
+      Alstreim2_30: 529336078660752880
+      Alstreim2_31: -7193507574710857825
+      Alstreim2_32: 2930088146814873151
+      Alstreim2_33: 1950141868923141331
+      Alstreim2_34: -1934727370617535774
+      Alstreim2_35: -7080884169047093311
+      Alstreim2_36: 4205858458057771245
+      Alstreim2_37: -4070286165140663860
+      Alstreim2_38: -8868180170848313203
+      Alstreim2_39: -6629622290278856140
+      Alstreim2_4: -7843740733326497277
+      Alstreim2_40: 2079982497330091052
+      Alstreim2_41: -4042694209068154350
+      Alstreim2_42: -5676388119815594648
+      Alstreim2_43: 6876533163698988319
+      Alstreim2_44: 1410845285775121282
+      Alstreim2_45: -8540690238956114894
+      Alstreim2_46: -3015434718899361599
+      Alstreim2_47: 381991243946046769
+      Alstreim2_48: 4955230212209558891
+      Alstreim2_49: -8771719537833314492
+      Alstreim2_5: -4954435402895505341
+      Alstreim2_50: -4080015992209813680
+      Alstreim2_51: -7753703732428153633
+      Alstreim2_52: 4419188985919818828
+      Alstreim2_53: 4781521075411338945
+      Alstreim2_6: -6557671586438651576
+      Alstreim2_7: -2634194614062223111
+      Alstreim2_8: 5132139068669390220
+      Alstreim2_9: 3333748737707570319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

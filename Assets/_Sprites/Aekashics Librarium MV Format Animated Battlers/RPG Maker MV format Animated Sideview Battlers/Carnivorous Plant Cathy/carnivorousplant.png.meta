@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: fff2fe5f593132343aaaa8a88f02c423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6552305520123636053
+    second: carnivorousplant_0
+  - first:
+      213: 2330832895454670776
+    second: carnivorousplant_1
+  - first:
+      213: -4356920965940567588
+    second: carnivorousplant_2
+  - first:
+      213: 5786953544580660584
+    second: carnivorousplant_3
+  - first:
+      213: 7390986920671694359
+    second: carnivorousplant_4
+  - first:
+      213: -4426917381555922404
+    second: carnivorousplant_5
+  - first:
+      213: -7375564892169050362
+    second: carnivorousplant_6
+  - first:
+      213: 2481552299244389054
+    second: carnivorousplant_7
+  - first:
+      213: 189126104670515895
+    second: carnivorousplant_8
+  - first:
+      213: -6749641856868594435
+    second: carnivorousplant_9
+  - first:
+      213: -988256555687390307
+    second: carnivorousplant_10
+  - first:
+      213: -1536452961402518592
+    second: carnivorousplant_11
+  - first:
+      213: -5939296842675135197
+    second: carnivorousplant_12
+  - first:
+      213: -4493233318217814659
+    second: carnivorousplant_13
+  - first:
+      213: -167800940839830910
+    second: carnivorousplant_14
+  - first:
+      213: 1423233948695338598
+    second: carnivorousplant_15
+  - first:
+      213: 3464910878972898175
+    second: carnivorousplant_16
+  - first:
+      213: 215654667138479225
+    second: carnivorousplant_17
+  - first:
+      213: -6803085194063339415
+    second: carnivorousplant_18
+  - first:
+      213: -1971604010619132621
+    second: carnivorousplant_19
+  - first:
+      213: -5329133067728468970
+    second: carnivorousplant_20
+  - first:
+      213: 5396341832723528569
+    second: carnivorousplant_21
+  - first:
+      213: -2359620802816783134
+    second: carnivorousplant_22
+  - first:
+      213: 6695501860290858150
+    second: carnivorousplant_23
+  - first:
+      213: -2575826784425020600
+    second: carnivorousplant_24
+  - first:
+      213: 8256234073315534421
+    second: carnivorousplant_25
+  - first:
+      213: 8970898703046332030
+    second: carnivorousplant_26
+  - first:
+      213: -8142809044337125763
+    second: carnivorousplant_27
+  - first:
+      213: 4816524490649850065
+    second: carnivorousplant_28
+  - first:
+      213: -1984374321604256265
+    second: carnivorousplant_29
+  - first:
+      213: -8387850239678177493
+    second: carnivorousplant_30
+  - first:
+      213: 6273598156769425152
+    second: carnivorousplant_31
+  - first:
+      213: -3918291563546608012
+    second: carnivorousplant_32
+  - first:
+      213: 919443701373582264
+    second: carnivorousplant_33
+  - first:
+      213: -1245683503792887992
+    second: carnivorousplant_34
+  - first:
+      213: 2764678119695664017
+    second: carnivorousplant_35
+  - first:
+      213: 245914627300825128
+    second: carnivorousplant_36
+  - first:
+      213: -5794766388173084638
+    second: carnivorousplant_37
+  - first:
+      213: 5623221821585038802
+    second: carnivorousplant_38
+  - first:
+      213: -4954644837889177643
+    second: carnivorousplant_39
+  - first:
+      213: 155720831813263041
+    second: carnivorousplant_40
+  - first:
+      213: -5573489512976197310
+    second: carnivorousplant_41
+  - first:
+      213: -1464414227553225835
+    second: carnivorousplant_42
+  - first:
+      213: 388076683400477624
+    second: carnivorousplant_43
+  - first:
+      213: -7478981565371457281
+    second: carnivorousplant_44
+  - first:
+      213: 1792678303372982381
+    second: carnivorousplant_45
+  - first:
+      213: 1162170934442908556
+    second: carnivorousplant_46
+  - first:
+      213: 3673073485835594021
+    second: carnivorousplant_47
+  - first:
+      213: 1328645321607160493
+    second: carnivorousplant_48
+  - first:
+      213: 5966021207355666079
+    second: carnivorousplant_49
+  - first:
+      213: -861458338470318119
+    second: carnivorousplant_50
+  - first:
+      213: -2822778328613147194
+    second: carnivorousplant_51
+  - first:
+      213: 3692987841480755016
+    second: carnivorousplant_52
+  - first:
+      213: -5012443578007546407
+    second: carnivorousplant_53
+  - first:
+      213: 2012422510007778614
+    second: carnivorousplant_54
+  - first:
+      213: -7658519651064011241
+    second: carnivorousplant_55
+  - first:
+      213: -917688291848707456
+    second: carnivorousplant_56
+  - first:
+      213: -8540471397376009028
+    second: carnivorousplant_57
+  - first:
+      213: 3123057377645121385
+    second: carnivorousplant_58
+  - first:
+      213: -1462404218000273882
+    second: carnivorousplant_59
+  - first:
+      213: 9116949103517615051
+    second: carnivorousplant_60
+  - first:
+      213: -1384347305771929845
+    second: carnivorousplant_61
+  - first:
+      213: 1963725949697894129
+    second: carnivorousplant_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carnivorousplant_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1283
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559eccaa7277eea50800000000000000
+      internalID: 6552305520123636053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1283
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfee5c4b28c85020800000000000000
+      internalID: 2330832895454670776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1283
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd129a6277b1983c0800000000000000
+      internalID: -4356920965940567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1283
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dfa6496936f4050800000000000000
+      internalID: 5786953544580660584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_4
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1283
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ec13af17f029660800000000000000
+      internalID: 7390986920671694359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1283
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a5b56a81e6092c0800000000000000
+      internalID: -4426917381555922404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_6
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1283
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607eb68decab4a990800000000000000
+      internalID: -7375564892169050362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_7
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1283
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb204081bae307220800000000000000
+      internalID: 2481552299244389054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_8
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1283
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b3aea039ef9200800000000000000
+      internalID: 189126104670515895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1027
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc4d380e747452a0800000000000000
+      internalID: -6749641856868594435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1027
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935d4b06e10942f0800000000000000
+      internalID: -988256555687390307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1027
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3818d0c2c6daae0800000000000000
+      internalID: -1536452961402518592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_12
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1027
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ddfb44df0639da0800000000000000
+      internalID: -5939296842675135197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1027
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6dae6a14d4a1c0800000000000000
+      internalID: -4493233318217814659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1027
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af340fee9dbadf0800000000000000
+      internalID: -167800940839830910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_15
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1027
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e13485cb750c310800000000000000
+      internalID: 1423233948695338598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_16
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1027
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be0972616d51030800000000000000
+      internalID: 3464910878972898175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1027
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b1f4f6c82ef200800000000000000
+      internalID: 215654667138479225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 771
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a22f6f069691a0800000000000000
+      internalID: -6803085194063339415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 771
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335af4d299473a4e0800000000000000
+      internalID: -1971604010619132621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_20
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 771
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c149b5bd1b06b0800000000000000
+      internalID: -5329133067728468970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_21
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 771
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf01a4e48a3ea40800000000000000
+      internalID: 5396341832723528569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 771
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eccb73b161f04fd0800000000000000
+      internalID: -2359620802816783134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 771
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8a97b7733bec50800000000000000
+      internalID: 6695501860290858150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_24
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 773
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f867df23d04cd0800000000000000
+      internalID: -2575826784425020600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_25
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 773
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e2727529049270800000000000000
+      internalID: 8256234073315534421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_26
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 773
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec61f27d80f7c70800000000000000
+      internalID: 8970898703046332030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 515
+        width: 163
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76927e015eeefe80800000000000000
+      internalID: -8142809044337125763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 515
+        width: 163
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05725518bb7d240800000000000000
+      internalID: 4816524490649850065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 515
+        width: 163
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1f5371161674e0800000000000000
+      internalID: -1984374321604256265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_30
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 515
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9ec2d5ae589b80800000000000000
+      internalID: -8387850239678177493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 515
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00779cdd84c401750800000000000000
+      internalID: 6273598156769425152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_32
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 515
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef46c359e6f99c0800000000000000
+      internalID: -3918291563546608012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_33
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 517
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbb75bcc2582cc00800000000000000
+      internalID: 919443701373582264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_34
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 517
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476cd5047176bee0800000000000000
+      internalID: -1245683503792887992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_35
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 517
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19341ca1a1c1e5620800000000000000
+      internalID: 2764678119695664017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 339
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289655fc0aa96300800000000000000
+      internalID: 245914627300825128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e1940caad49fa0800000000000000
+      internalID: -5794766388173084638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1dc02472b90e40800000000000000
+      internalID: 5623221821585038802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 339
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7846155c09d3bb0800000000000000
+      internalID: -4954644837889177643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9b50854b392200800000000000000
+      internalID: 155720831813263041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 256
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24950bb41dcf6a2b0800000000000000
+      internalID: -5573489512976197310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_42
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 339
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59379a2d40b5dabe0800000000000000
+      internalID: -1464414227553225835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 334
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb72bbffa9b26500800000000000000
+      internalID: 388076683400477624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_44
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 256
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e65244e1553890800000000000000
+      internalID: -7478981565371457281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_45
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 259
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b81d3b6fd0e810800000000000000
+      internalID: 1792678303372982381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_46
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 259
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bd0c3be4cd02010800000000000000
+      internalID: 1162170934442908556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 259
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e225efd069f230800000000000000
+      internalID: 3673073485835594021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_48
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 261
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da221ea61eb407210800000000000000
+      internalID: 1328645321607160493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_49
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 261
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea1e2cda09bc250800000000000000
+      internalID: 5966021207355666079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_50
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 261
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfada2943c7b04f0800000000000000
+      internalID: -861458338470318119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda75bd01a73d8d0800000000000000
+      internalID: -2822778328613147194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470c4320e0204330800000000000000
+      internalID: 3692987841480755016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_53
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51c247f19307ab0800000000000000
+      internalID: -5012443578007546407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d730f4c9f8deb10800000000000000
+      internalID: 2012422510007778614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7162bf434f877b590800000000000000
+      internalID: -7658519651064011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_56
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 4
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a2d55c57b343f0800000000000000
+      internalID: -917688291848707456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_57
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd40173862a7980800000000000000
+      internalID: -8540471397376009028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_58
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f43b76324575b20800000000000000
+      internalID: 3123057377645121385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_59
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8f04ac1f74bbe0800000000000000
+      internalID: -1462404218000273882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_60
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 0
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3cb7ee7e8e58e70800000000000000
+      internalID: 9116949103517615051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_61
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 0
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fe1b1c57fc9cce0800000000000000
+      internalID: -1384347305771929845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carnivorousplant_62
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 0
+        width: 147
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a5f3d85e804b10800000000000000
+      internalID: 1963725949697894129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      carnivorousplant_0: 6552305520123636053
+      carnivorousplant_1: 2330832895454670776
+      carnivorousplant_10: -988256555687390307
+      carnivorousplant_11: -1536452961402518592
+      carnivorousplant_12: -5939296842675135197
+      carnivorousplant_13: -4493233318217814659
+      carnivorousplant_14: -167800940839830910
+      carnivorousplant_15: 1423233948695338598
+      carnivorousplant_16: 3464910878972898175
+      carnivorousplant_17: 215654667138479225
+      carnivorousplant_18: -6803085194063339415
+      carnivorousplant_19: -1971604010619132621
+      carnivorousplant_2: -4356920965940567588
+      carnivorousplant_20: -5329133067728468970
+      carnivorousplant_21: 5396341832723528569
+      carnivorousplant_22: -2359620802816783134
+      carnivorousplant_23: 6695501860290858150
+      carnivorousplant_24: -2575826784425020600
+      carnivorousplant_25: 8256234073315534421
+      carnivorousplant_26: 8970898703046332030
+      carnivorousplant_27: -8142809044337125763
+      carnivorousplant_28: 4816524490649850065
+      carnivorousplant_29: -1984374321604256265
+      carnivorousplant_3: 5786953544580660584
+      carnivorousplant_30: -8387850239678177493
+      carnivorousplant_31: 6273598156769425152
+      carnivorousplant_32: -3918291563546608012
+      carnivorousplant_33: 919443701373582264
+      carnivorousplant_34: -1245683503792887992
+      carnivorousplant_35: 2764678119695664017
+      carnivorousplant_36: 245914627300825128
+      carnivorousplant_37: -5794766388173084638
+      carnivorousplant_38: 5623221821585038802
+      carnivorousplant_39: -4954644837889177643
+      carnivorousplant_4: 7390986920671694359
+      carnivorousplant_40: 155720831813263041
+      carnivorousplant_41: -5573489512976197310
+      carnivorousplant_42: -1464414227553225835
+      carnivorousplant_43: 388076683400477624
+      carnivorousplant_44: -7478981565371457281
+      carnivorousplant_45: 1792678303372982381
+      carnivorousplant_46: 1162170934442908556
+      carnivorousplant_47: 3673073485835594021
+      carnivorousplant_48: 1328645321607160493
+      carnivorousplant_49: 5966021207355666079
+      carnivorousplant_5: -4426917381555922404
+      carnivorousplant_50: -861458338470318119
+      carnivorousplant_51: -2822778328613147194
+      carnivorousplant_52: 3692987841480755016
+      carnivorousplant_53: -5012443578007546407
+      carnivorousplant_54: 2012422510007778614
+      carnivorousplant_55: -7658519651064011241
+      carnivorousplant_56: -917688291848707456
+      carnivorousplant_57: -8540471397376009028
+      carnivorousplant_58: 3123057377645121385
+      carnivorousplant_59: -1462404218000273882
+      carnivorousplant_6: -7375564892169050362
+      carnivorousplant_60: 9116949103517615051
+      carnivorousplant_61: -1384347305771929845
+      carnivorousplant_62: 1963725949697894129
+      carnivorousplant_7: 2481552299244389054
+      carnivorousplant_8: 189126104670515895
+      carnivorousplant_9: -6749641856868594435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

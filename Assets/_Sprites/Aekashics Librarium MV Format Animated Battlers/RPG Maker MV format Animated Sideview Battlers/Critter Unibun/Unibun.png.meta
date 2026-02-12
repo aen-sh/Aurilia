@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: f9fffe1aa25aefa4ead32feab55109cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9059625927733084881
+    second: Unibun_0
+  - first:
+      213: 4873099151415022396
+    second: Unibun_1
+  - first:
+      213: 5229628818507126722
+    second: Unibun_2
+  - first:
+      213: -3781898437132084605
+    second: Unibun_3
+  - first:
+      213: -7501910663165967903
+    second: Unibun_4
+  - first:
+      213: -2559124832260730179
+    second: Unibun_5
+  - first:
+      213: 4604585469622123332
+    second: Unibun_6
+  - first:
+      213: -4505183973074271779
+    second: Unibun_7
+  - first:
+      213: 9116486347773834330
+    second: Unibun_8
+  - first:
+      213: 5292934131203444123
+    second: Unibun_9
+  - first:
+      213: -5508706048148419475
+    second: Unibun_10
+  - first:
+      213: 690352982035276820
+    second: Unibun_11
+  - first:
+      213: -1213550971290599094
+    second: Unibun_12
+  - first:
+      213: -7511045047475928101
+    second: Unibun_13
+  - first:
+      213: 8626719420251903118
+    second: Unibun_14
+  - first:
+      213: 459048439581125826
+    second: Unibun_15
+  - first:
+      213: -4992559280657370845
+    second: Unibun_16
+  - first:
+      213: -5581909306573062147
+    second: Unibun_17
+  - first:
+      213: -4928000073016417175
+    second: Unibun_18
+  - first:
+      213: 7135025785124082498
+    second: Unibun_19
+  - first:
+      213: 299697178149830576
+    second: Unibun_20
+  - first:
+      213: 9166689207106144761
+    second: Unibun_21
+  - first:
+      213: -257649538054732040
+    second: Unibun_22
+  - first:
+      213: -464932837016267827
+    second: Unibun_23
+  - first:
+      213: 2407915739316510703
+    second: Unibun_24
+  - first:
+      213: 71454474467334528
+    second: Unibun_25
+  - first:
+      213: 2614481557565720905
+    second: Unibun_26
+  - first:
+      213: 7482828469477073607
+    second: Unibun_27
+  - first:
+      213: -4997197409969047706
+    second: Unibun_28
+  - first:
+      213: 3002828788734682679
+    second: Unibun_29
+  - first:
+      213: -630253988670368892
+    second: Unibun_30
+  - first:
+      213: 7913404512020046218
+    second: Unibun_31
+  - first:
+      213: 1863171111955090167
+    second: Unibun_32
+  - first:
+      213: 6316996603588741340
+    second: Unibun_33
+  - first:
+      213: 810131878615525111
+    second: Unibun_34
+  - first:
+      213: -320605173105073570
+    second: Unibun_35
+  - first:
+      213: 6733889078789255669
+    second: Unibun_36
+  - first:
+      213: 7501691237378951647
+    second: Unibun_37
+  - first:
+      213: 4042150506850534254
+    second: Unibun_38
+  - first:
+      213: -3694309124894696462
+    second: Unibun_39
+  - first:
+      213: -328134500066868077
+    second: Unibun_40
+  - first:
+      213: -918382604844968808
+    second: Unibun_41
+  - first:
+      213: 5460603245799001616
+    second: Unibun_42
+  - first:
+      213: -7740731533848023235
+    second: Unibun_43
+  - first:
+      213: 6498670044663819421
+    second: Unibun_44
+  - first:
+      213: 7967421243967199702
+    second: Unibun_45
+  - first:
+      213: 4170186740531888356
+    second: Unibun_46
+  - first:
+      213: 749898226771301041
+    second: Unibun_47
+  - first:
+      213: 6661707974394076878
+    second: Unibun_48
+  - first:
+      213: -7310400540299340125
+    second: Unibun_49
+  - first:
+      213: -5184391675281750935
+    second: Unibun_50
+  - first:
+      213: 3197732805523055923
+    second: Unibun_51
+  - first:
+      213: -6995935739514485385
+    second: Unibun_52
+  - first:
+      213: 4434814955108527062
+    second: Unibun_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unibun_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1279
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dfc8bf73eb54280800000000000000
+      internalID: -9059625927733084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1280
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3399530cd9b0a340800000000000000
+      internalID: 4873099151415022396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1280
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75342e3bf539840800000000000000
+      internalID: 5229628818507126722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1279
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a1326a86ff38bc0800000000000000
+      internalID: -3781898437132084605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1279
+        width: 249
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10749affbd3e790800000000000000
+      internalID: -7501910663165967903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1288
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d73d16892c7cd0800000000000000
+      internalID: -2559124832260730179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1279
+        width: 204
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b70c6a616c6ef30800000000000000
+      internalID: 4604585469622123332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_7
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1279
+        width: 204
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd10025cb0f5a71c0800000000000000
+      internalID: -4505183973074271779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_8
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1279
+        width: 204
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f1c63804448e70800000000000000
+      internalID: 9116486347773834330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1023
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d0ce59c87447940800000000000000
+      internalID: 5292934131203444123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1023
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c411c19052d83b0800000000000000
+      internalID: -5508706048148419475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1023
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41428d72160a49900800000000000000
+      internalID: 690352982035276820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1023
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41c46f32d9982fe0800000000000000
+      internalID: -1213550971290599094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_13
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1023
+        width: 249
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd38d35135863c790800000000000000
+      internalID: -7511045047475928101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1032
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84141d3b9348b770800000000000000
+      internalID: 8626719420251903118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1023
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc2ee7af1ede5600800000000000000
+      internalID: 459048439581125826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_16
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1024
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321765439cdd6bab0800000000000000
+      internalID: -4992559280657370845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_17
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1024
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff3455f031982b0800000000000000
+      internalID: -5581909306573062147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 767
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964e1c21b0a3c9bb0800000000000000
+      internalID: -4928000073016417175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 767
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d2990624b40360800000000000000
+      internalID: 7135025785124082498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 767
+        width: 197
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfbec3eefcb82400800000000000000
+      internalID: 299697178149830576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_21
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 767
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f908f3444f963f70800000000000000
+      internalID: 9166689207106144761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_22
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 767
+        width: 249
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f644b73c15ac6cf0800000000000000
+      internalID: -257649538054732040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 776
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc31b3d4c0a3c89f0800000000000000
+      internalID: -464932837016267827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_24
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 767
+        width: 226
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef58037b92aa6120800000000000000
+      internalID: 2407915739316510703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_25
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 767
+        width: 225
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089dc38477bddf000800000000000000
+      internalID: 71454474467334528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_26
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 767
+        width: 225
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c38edf11884420800000000000000
+      internalID: 2614481557565720905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 511
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26c56e8d858d760800000000000000
+      internalID: 7482828469477073607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 512
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667fa429e6366aab0800000000000000
+      internalID: -4997197409969047706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 512
+        width: 207
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e8d9afd03ca920800000000000000
+      internalID: 3002828788734682679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_30
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 511
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48397072653e047f0800000000000000
+      internalID: -630253988670368892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_31
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 511
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ade60a7f02dd60800000000000000
+      internalID: 7913404512020046218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_32
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 511
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa4adb31405bd910800000000000000
+      internalID: 1863171111955090167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_33
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 511
+        width: 226
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8814c21fa7aa750800000000000000
+      internalID: 6316996603588741340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_34
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 511
+        width: 225
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6291eb6aa2e3b00800000000000000
+      internalID: 810131878615525111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_35
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 511
+        width: 225
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526bef2b4bfc8bf0800000000000000
+      internalID: -320605173105073570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 255
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1bd128074937d50800000000000000
+      internalID: 6733889078789255669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 255
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd902aa4f6c5b1860800000000000000
+      internalID: 7501691237378951647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 255
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63cd71487a981830800000000000000
+      internalID: 4042150506850534254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_39
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 255
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbda289c6d2bbcc0800000000000000
+      internalID: -3694309124894696462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_40
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 255
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394c6f4296b327bf0800000000000000
+      internalID: -328134500066868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_41
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 255
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894515ef2ef3143f0800000000000000
+      internalID: -918382604844968808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_42
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 255
+        width: 226
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec13578b5f7cb40800000000000000
+      internalID: 5460603245799001616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_43
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 255
+        width: 225
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe25f9ea5639490800000000000000
+      internalID: -7740731533848023235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_44
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 255
+        width: 225
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca8a469f9ef2a50800000000000000
+      internalID: 6498670044663819421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 204
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d09e7867f19e60800000000000000
+      internalID: 7967421243967199702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 204
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08274feba7fd930800000000000000
+      internalID: 4170186740531888356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 204
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21660d67c286a00800000000000000
+      internalID: 749898226771301041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_48
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 8
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece55238b14237c50800000000000000
+      internalID: 6661707974394076878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_49
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 249
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a652a5d07d3c8a90800000000000000
+      internalID: -7310400540299340125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_50
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 8
+        width: 210
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c65a4d375d08b0800000000000000
+      internalID: -5184391675281750935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_51
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 224
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a0d75b01a06c20800000000000000
+      internalID: 3197732805523055923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_52
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 224
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77587cec28179ee90800000000000000
+      internalID: -6995935739514485385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unibun_53
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 224
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db65db74b0ab8d30800000000000000
+      internalID: 4434814955108527062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Unibun_0: -9059625927733084881
+      Unibun_1: 4873099151415022396
+      Unibun_10: -5508706048148419475
+      Unibun_11: 690352982035276820
+      Unibun_12: -1213550971290599094
+      Unibun_13: -7511045047475928101
+      Unibun_14: 8626719420251903118
+      Unibun_15: 459048439581125826
+      Unibun_16: -4992559280657370845
+      Unibun_17: -5581909306573062147
+      Unibun_18: -4928000073016417175
+      Unibun_19: 7135025785124082498
+      Unibun_2: 5229628818507126722
+      Unibun_20: 299697178149830576
+      Unibun_21: 9166689207106144761
+      Unibun_22: -257649538054732040
+      Unibun_23: -464932837016267827
+      Unibun_24: 2407915739316510703
+      Unibun_25: 71454474467334528
+      Unibun_26: 2614481557565720905
+      Unibun_27: 7482828469477073607
+      Unibun_28: -4997197409969047706
+      Unibun_29: 3002828788734682679
+      Unibun_3: -3781898437132084605
+      Unibun_30: -630253988670368892
+      Unibun_31: 7913404512020046218
+      Unibun_32: 1863171111955090167
+      Unibun_33: 6316996603588741340
+      Unibun_34: 810131878615525111
+      Unibun_35: -320605173105073570
+      Unibun_36: 6733889078789255669
+      Unibun_37: 7501691237378951647
+      Unibun_38: 4042150506850534254
+      Unibun_39: -3694309124894696462
+      Unibun_4: -7501910663165967903
+      Unibun_40: -328134500066868077
+      Unibun_41: -918382604844968808
+      Unibun_42: 5460603245799001616
+      Unibun_43: -7740731533848023235
+      Unibun_44: 6498670044663819421
+      Unibun_45: 7967421243967199702
+      Unibun_46: 4170186740531888356
+      Unibun_47: 749898226771301041
+      Unibun_48: 6661707974394076878
+      Unibun_49: -7310400540299340125
+      Unibun_5: -2559124832260730179
+      Unibun_50: -5184391675281750935
+      Unibun_51: 3197732805523055923
+      Unibun_52: -6995935739514485385
+      Unibun_53: 4434814955108527062
+      Unibun_6: 4604585469622123332
+      Unibun_7: -4505183973074271779
+      Unibun_8: 9116486347773834330
+      Unibun_9: 5292934131203444123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

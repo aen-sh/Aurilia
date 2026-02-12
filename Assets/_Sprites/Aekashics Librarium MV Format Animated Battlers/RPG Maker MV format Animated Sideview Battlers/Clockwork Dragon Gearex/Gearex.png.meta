@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 8f6681c6c9e069d438fe85474153d56f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2869316544475420784
+    second: Gearex_0
+  - first:
+      213: -3786033647577640483
+    second: Gearex_1
+  - first:
+      213: 1524497262635845822
+    second: Gearex_2
+  - first:
+      213: -1359108412541298093
+    second: Gearex_3
+  - first:
+      213: -2537796018315530924
+    second: Gearex_4
+  - first:
+      213: -7444521189433162380
+    second: Gearex_5
+  - first:
+      213: 3768039617663399048
+    second: Gearex_6
+  - first:
+      213: -474058462430719459
+    second: Gearex_7
+  - first:
+      213: 2336525496069634656
+    second: Gearex_8
+  - first:
+      213: -4518124421073860323
+    second: Gearex_9
+  - first:
+      213: 8337662319833926704
+    second: Gearex_10
+  - first:
+      213: -1301732570427872452
+    second: Gearex_11
+  - first:
+      213: 7111658669047675294
+    second: Gearex_12
+  - first:
+      213: -3321870500647696208
+    second: Gearex_13
+  - first:
+      213: 2178428015751374614
+    second: Gearex_14
+  - first:
+      213: -8155128821486824575
+    second: Gearex_15
+  - first:
+      213: 8178179556668687941
+    second: Gearex_16
+  - first:
+      213: 3071233256768121716
+    second: Gearex_17
+  - first:
+      213: 356144415065028839
+    second: Gearex_18
+  - first:
+      213: -6945844345501250913
+    second: Gearex_19
+  - first:
+      213: -5297581801844973856
+    second: Gearex_20
+  - first:
+      213: -6262651175729066475
+    second: Gearex_21
+  - first:
+      213: 506079703590101350
+    second: Gearex_22
+  - first:
+      213: 2653180627151220696
+    second: Gearex_23
+  - first:
+      213: 176126470777214794
+    second: Gearex_24
+  - first:
+      213: -4170149970250562729
+    second: Gearex_25
+  - first:
+      213: -2866423226824408078
+    second: Gearex_26
+  - first:
+      213: 7455792314991905254
+    second: Gearex_27
+  - first:
+      213: -5967405914335753592
+    second: Gearex_28
+  - first:
+      213: -2887347769953227303
+    second: Gearex_29
+  - first:
+      213: 3184185662921099004
+    second: Gearex_30
+  - first:
+      213: 3937756819717191110
+    second: Gearex_31
+  - first:
+      213: 5766001339544489665
+    second: Gearex_32
+  - first:
+      213: 6797231053876111931
+    second: Gearex_33
+  - first:
+      213: -2438025507205380392
+    second: Gearex_34
+  - first:
+      213: 5420569161462887432
+    second: Gearex_35
+  - first:
+      213: 5917647163482197076
+    second: Gearex_36
+  - first:
+      213: -197171645552652046
+    second: Gearex_37
+  - first:
+      213: -2243379063721728781
+    second: Gearex_38
+  - first:
+      213: 6823211405824996943
+    second: Gearex_39
+  - first:
+      213: -4329444446418436398
+    second: Gearex_40
+  - first:
+      213: -8455545805730261101
+    second: Gearex_41
+  - first:
+      213: 6206884911381826279
+    second: Gearex_42
+  - first:
+      213: 8840308626006213747
+    second: Gearex_43
+  - first:
+      213: 7999567814779715098
+    second: Gearex_44
+  - first:
+      213: -2091448104945507886
+    second: Gearex_45
+  - first:
+      213: 7786063414731828621
+    second: Gearex_46
+  - first:
+      213: 3421412978039907745
+    second: Gearex_47
+  - first:
+      213: 4461738853176043531
+    second: Gearex_48
+  - first:
+      213: 3738558803780300508
+    second: Gearex_49
+  - first:
+      213: 6814206568171173616
+    second: Gearex_50
+  - first:
+      213: -2914599281385218898
+    second: Gearex_51
+  - first:
+      213: -1446101364949217152
+    second: Gearex_52
+  - first:
+      213: 5483124767437066290
+    second: Gearex_53
+  - first:
+      213: 8396599542103088585
+    second: Gearex_54
+  - first:
+      213: 8881678934448209492
+    second: Gearex_55
+  - first:
+      213: -5864001974263322868
+    second: Gearex_56
+  - first:
+      213: 4638892408106367006
+    second: Gearex_57
+  - first:
+      213: 1289797141770001364
+    second: Gearex_58
+  - first:
+      213: -215221946127211042
+    second: Gearex_59
+  - first:
+      213: 4891861284910502953
+    second: Gearex_60
+  - first:
+      213: 4641325120347099722
+    second: Gearex_61
+  - first:
+      213: -7106494648807588647
+    second: Gearex_62
+  - first:
+      213: -4373080030003019168
+    second: Gearex_63
+  - first:
+      213: 5978396506431684408
+    second: Gearex_64
+  - first:
+      213: 6842907271280437624
+    second: Gearex_65
+  - first:
+      213: -6511861519038371198
+    second: Gearex_66
+  - first:
+      213: -5885139066129439748
+    second: Gearex_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gearex_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1920
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078db95e13cd1d720800000000000000
+      internalID: 2869316544475420784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1919
+        width: 363
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd15570f47e457bc0800000000000000
+      internalID: -3786033647577640483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1919
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80778ee2a182510800000000000000
+      internalID: 1524497262635845822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2032
+        width: 361
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1b33891a732de0800000000000000
+      internalID: -1359108412541298093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_4
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2033
+        width: 363
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de6e797ffe7ccd0800000000000000
+      internalID: -2537796018315530924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_5
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2034
+        width: 365
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c7f4cb6fbfa890800000000000000
+      internalID: -7444521189433162380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_6
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1919
+        width: 374
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884fc6e7114ca4430800000000000000
+      internalID: 3768039617663399048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_7
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1919
+        width: 374
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d129c00175ecb69f0800000000000000
+      internalID: -474058462430719459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_8
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 1919
+        width: 374
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06abfd92f810d6020800000000000000
+      internalID: 2336525496069634656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1536
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1900eee6c56c41c0800000000000000
+      internalID: -4518124421073860323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1535
+        width: 363
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c4cde74b355b370800000000000000
+      internalID: 8337662319833926704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1535
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b2713cf115fede0800000000000000
+      internalID: -1301732570427872452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_12
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1538
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f96c51efa1b260800000000000000
+      internalID: 7111658669047675294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_13
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1535
+        width: 374
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88b03316856e1d0800000000000000
+      internalID: -3321870500647696208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_14
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1803
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ae9f0db45b3e10800000000000000
+      internalID: 2178428015751374614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1535
+        width: 374
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835ab96b8923de80800000000000000
+      internalID: -8155128821486824575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_16
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1806
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54649981afabe7170800000000000000
+      internalID: 8178179556668687941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_17
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1536
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba70cff563f9a20800000000000000
+      internalID: 3071233256768121716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_18
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1535
+        width: 363
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b0b4657741f400800000000000000
+      internalID: 356144415065028839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_19
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 1535
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0e315e576b9f90800000000000000
+      internalID: -6945844345501250913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_20
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1495
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eed4744b653b76b0800000000000000
+      internalID: -5297581801844973856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_21
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1498
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e8c76cfe79619a0800000000000000
+      internalID: -6262651175729066475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1152
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e5802fc4f50700800000000000000
+      internalID: 506079703590101350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1152
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfeb4629bdf1d420800000000000000
+      internalID: 2653180627151220696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_24
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1151
+        width: 367
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47183e871ab17200800000000000000
+      internalID: 176126470777214794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_25
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1444
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7530c1b42b6a026c0800000000000000
+      internalID: -4170149970250562729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_26
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1438
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c33d134b6838d0800000000000000
+      internalID: -2866423226824408078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_27
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1444
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90e26ab9b487760800000000000000
+      internalID: 7455792314991905254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_28
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1448
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac37500f38f2da0800000000000000
+      internalID: -5967405914335753592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1151
+        width: 363
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddebe440841ee7d0800000000000000
+      internalID: -2887347769953227303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_30
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1151
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6cd496dff703c20800000000000000
+      internalID: 3184185662921099004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1402
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57d13e6f8b5a630800000000000000
+      internalID: 3937756819717191110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_32
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1151
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec9f13ba3f40050800000000000000
+      internalID: 5766001339544489665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_33
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1152
+        width: 379
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a2a8651ad945e50800000000000000
+      internalID: 6797231053876111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_34
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1151
+        width: 379
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68ea9e7b46a2ed0800000000000000
+      internalID: -2438025507205380392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_35
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1151
+        width: 380
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804be65deeab93b40800000000000000
+      internalID: 5420569161462887432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_36
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1344
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c447dfdb4bf1250800000000000000
+      internalID: 5917647163482197076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_37
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1348
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01e0bde61834df0800000000000000
+      internalID: -197171645552652046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 768
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46152a0aaedd0e0800000000000000
+      internalID: -2243379063721728781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 767
+        width: 363
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46b7976f9ae0be50800000000000000
+      internalID: 6823211405824996943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_40
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 767
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def070e639bae3c0800000000000000
+      internalID: -4329444446418436398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_41
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 767
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397576b93edd7aa80800000000000000
+      internalID: -8455545805730261101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_42
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 767
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea45a001f8432650800000000000000
+      internalID: 6206884911381826279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_43
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 767
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740ced7bd51faa70800000000000000
+      internalID: 8840308626006213747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_44
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 768
+        width: 379
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb7944b8c240f60800000000000000
+      internalID: 7999567814779715098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_45
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 767
+        width: 379
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d12f8e870fa9f2e0800000000000000
+      internalID: -2091448104945507886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_46
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 767
+        width: 380
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d61c16c67ad0c60800000000000000
+      internalID: 7786063414731828621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 385
+        width: 356
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5eaf1e9fc4b7f20800000000000000
+      internalID: 3421412978039907745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 384
+        width: 359
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ed1009d74bed30800000000000000
+      internalID: 4461738853176043531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_49
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 383
+        width: 360
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeeb3f9c6702e330800000000000000
+      internalID: 3738558803780300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_50
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 383
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f9f145cce09e50800000000000000
+      internalID: 6814206568171173616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_51
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 383
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacdc6255634d87d0800000000000000
+      internalID: -2914599281385218898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_52
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 383
+        width: 365
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809ef8687a6eebe0800000000000000
+      internalID: -1446101364949217152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_53
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 384
+        width: 379
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309b36dce8f71c40800000000000000
+      internalID: 5483124767437066290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_54
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 383
+        width: 379
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1344ebc6b68470800000000000000
+      internalID: 8396599542103088585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_55
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 384
+        width: 379
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efad80fef024b70800000000000000
+      internalID: 8881678934448209492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_56
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 15
+        width: 361
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0768d1f541ee9ea0800000000000000
+      internalID: -5864001974263322868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_57
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 374
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18bf683118a06040800000000000000
+      internalID: 4638892408106367006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_58
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 280
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd383baa746e110800000000000000
+      internalID: 1289797141770001364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_59
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 12
+        width: 374
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed52831c7c0630df0800000000000000
+      internalID: -215221946127211042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_60
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 283
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9249391abe163e340800000000000000
+      internalID: 4891861284910502953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 374
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42d26d2b9c496040800000000000000
+      internalID: 4641325120347099722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_62
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 374
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcfb9bc4c8a06d90800000000000000
+      internalID: -7106494648807588647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_63
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 374
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c05dd1e2bf43c0800000000000000
+      internalID: -4373080030003019168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_64
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 0
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffb4c92f787f250800000000000000
+      internalID: 5978396506431684408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_65
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 0
+        width: 369
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879ab9f68e3e6fe50800000000000000
+      internalID: 6842907271280437624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_66
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 0
+        width: 369
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aae23237831a5a0800000000000000
+      internalID: -6511861519038371198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gearex_67
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 369
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a49d3339c35ea0800000000000000
+      internalID: -5885139066129439748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gearex_0: 2869316544475420784
+      Gearex_1: -3786033647577640483
+      Gearex_10: 8337662319833926704
+      Gearex_11: -1301732570427872452
+      Gearex_12: 7111658669047675294
+      Gearex_13: -3321870500647696208
+      Gearex_14: 2178428015751374614
+      Gearex_15: -8155128821486824575
+      Gearex_16: 8178179556668687941
+      Gearex_17: 3071233256768121716
+      Gearex_18: 356144415065028839
+      Gearex_19: -6945844345501250913
+      Gearex_2: 1524497262635845822
+      Gearex_20: -5297581801844973856
+      Gearex_21: -6262651175729066475
+      Gearex_22: 506079703590101350
+      Gearex_23: 2653180627151220696
+      Gearex_24: 176126470777214794
+      Gearex_25: -4170149970250562729
+      Gearex_26: -2866423226824408078
+      Gearex_27: 7455792314991905254
+      Gearex_28: -5967405914335753592
+      Gearex_29: -2887347769953227303
+      Gearex_3: -1359108412541298093
+      Gearex_30: 3184185662921099004
+      Gearex_31: 3937756819717191110
+      Gearex_32: 5766001339544489665
+      Gearex_33: 6797231053876111931
+      Gearex_34: -2438025507205380392
+      Gearex_35: 5420569161462887432
+      Gearex_36: 5917647163482197076
+      Gearex_37: -197171645552652046
+      Gearex_38: -2243379063721728781
+      Gearex_39: 6823211405824996943
+      Gearex_4: -2537796018315530924
+      Gearex_40: -4329444446418436398
+      Gearex_41: -8455545805730261101
+      Gearex_42: 6206884911381826279
+      Gearex_43: 8840308626006213747
+      Gearex_44: 7999567814779715098
+      Gearex_45: -2091448104945507886
+      Gearex_46: 7786063414731828621
+      Gearex_47: 3421412978039907745
+      Gearex_48: 4461738853176043531
+      Gearex_49: 3738558803780300508
+      Gearex_5: -7444521189433162380
+      Gearex_50: 6814206568171173616
+      Gearex_51: -2914599281385218898
+      Gearex_52: -1446101364949217152
+      Gearex_53: 5483124767437066290
+      Gearex_54: 8396599542103088585
+      Gearex_55: 8881678934448209492
+      Gearex_56: -5864001974263322868
+      Gearex_57: 4638892408106367006
+      Gearex_58: 1289797141770001364
+      Gearex_59: -215221946127211042
+      Gearex_6: 3768039617663399048
+      Gearex_60: 4891861284910502953
+      Gearex_61: 4641325120347099722
+      Gearex_62: -7106494648807588647
+      Gearex_63: -4373080030003019168
+      Gearex_64: 5978396506431684408
+      Gearex_65: 6842907271280437624
+      Gearex_66: -6511861519038371198
+      Gearex_67: -5885139066129439748
+      Gearex_7: -474058462430719459
+      Gearex_8: 2336525496069634656
+      Gearex_9: -4518124421073860323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

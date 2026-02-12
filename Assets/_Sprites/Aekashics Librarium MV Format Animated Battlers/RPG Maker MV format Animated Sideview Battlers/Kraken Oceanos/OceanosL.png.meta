@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 41ec4bc5db5d4b44ca02ebb3cb75d5dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2443184497187308669
+    second: OceanosL_0
+  - first:
+      213: 389955883725859551
+    second: OceanosL_1
+  - first:
+      213: -5031583127868133074
+    second: OceanosL_2
+  - first:
+      213: 3013345415403592142
+    second: OceanosL_3
+  - first:
+      213: 1247478238608682999
+    second: OceanosL_4
+  - first:
+      213: -2289010033508865729
+    second: OceanosL_5
+  - first:
+      213: 7123932239034158933
+    second: OceanosL_6
+  - first:
+      213: -695925078483160390
+    second: OceanosL_7
+  - first:
+      213: -326032929221474765
+    second: OceanosL_8
+  - first:
+      213: -128065828199245382
+    second: OceanosL_9
+  - first:
+      213: 4193821808883882696
+    second: OceanosL_10
+  - first:
+      213: -1158443804814671182
+    second: OceanosL_11
+  - first:
+      213: -7022459738535344406
+    second: OceanosL_12
+  - first:
+      213: -5681077442838790392
+    second: OceanosL_13
+  - first:
+      213: -1936689885186795696
+    second: OceanosL_14
+  - first:
+      213: 791700021031650553
+    second: OceanosL_15
+  - first:
+      213: -2960935084718467413
+    second: OceanosL_16
+  - first:
+      213: -1156665793546345327
+    second: OceanosL_17
+  - first:
+      213: 6507637556490667623
+    second: OceanosL_18
+  - first:
+      213: -2714384214890764139
+    second: OceanosL_19
+  - first:
+      213: -682412870085715875
+    second: OceanosL_20
+  - first:
+      213: 1082325441099309468
+    second: OceanosL_21
+  - first:
+      213: 465081299979330645
+    second: OceanosL_22
+  - first:
+      213: 1720163787011138542
+    second: OceanosL_23
+  - first:
+      213: 416735512494322514
+    second: OceanosL_24
+  - first:
+      213: 4645486710806053344
+    second: OceanosL_25
+  - first:
+      213: -5862813836298827717
+    second: OceanosL_26
+  - first:
+      213: 1318575983174198334
+    second: OceanosL_27
+  - first:
+      213: 2007772060991191297
+    second: OceanosL_28
+  - first:
+      213: -8191035929752380199
+    second: OceanosL_29
+  - first:
+      213: -8541343404692371085
+    second: OceanosL_30
+  - first:
+      213: 3064873157068891350
+    second: OceanosL_31
+  - first:
+      213: 3587792143870856007
+    second: OceanosL_32
+  - first:
+      213: -5578151357495674435
+    second: OceanosL_33
+  - first:
+      213: 1316027227291424384
+    second: OceanosL_34
+  - first:
+      213: 715333348784174550
+    second: OceanosL_35
+  - first:
+      213: 7222632290674689609
+    second: OceanosL_36
+  - first:
+      213: 2830364199461855536
+    second: OceanosL_37
+  - first:
+      213: 798103931553344906
+    second: OceanosL_38
+  - first:
+      213: -8248437848839337586
+    second: OceanosL_39
+  - first:
+      213: 7226021830272627724
+    second: OceanosL_40
+  - first:
+      213: 5661358129792172218
+    second: OceanosL_41
+  - first:
+      213: 7599508816380463879
+    second: OceanosL_42
+  - first:
+      213: 4030426219232858489
+    second: OceanosL_43
+  - first:
+      213: -7413482261333539395
+    second: OceanosL_44
+  - first:
+      213: -675953335588426471
+    second: OceanosL_45
+  - first:
+      213: 3789905881345341084
+    second: OceanosL_46
+  - first:
+      213: -2423198600127078473
+    second: OceanosL_47
+  - first:
+      213: -4009056242375107681
+    second: OceanosL_48
+  - first:
+      213: -403292859043161277
+    second: OceanosL_49
+  - first:
+      213: 4463692137275227264
+    second: OceanosL_50
+  - first:
+      213: -454900634782976622
+    second: OceanosL_51
+  - first:
+      213: -2408741262442026086
+    second: OceanosL_52
+  - first:
+      213: 2074014180237319337
+    second: OceanosL_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OceanosL_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2559
+        width: 359
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bb864f4a0181ed0800000000000000
+      internalID: -2443184497187308669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2559
+        width: 367
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaad876fc6696500800000000000000
+      internalID: 389955883725859551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_2
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2559
+        width: 375
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21329dbdc93c2ab0800000000000000
+      internalID: -5031583127868133074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2566
+        width: 427
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9deae90bd81d920800000000000000
+      internalID: 3013345415403592142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_4
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 2562
+        width: 464
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffec4d39deef4110800000000000000
+      internalID: 1247478238608682999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_5
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 2559
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f392661908dcb30e0800000000000000
+      internalID: -2289010033508865729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_6
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2559
+        width: 359
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f859f80aa4dd260800000000000000
+      internalID: 7123932239034158933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_7
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 2559
+        width: 361
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b9ba04d39756f0800000000000000
+      internalID: -695925078483160390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_8
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 2560
+        width: 362
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3368cac37c2b97bf0800000000000000
+      internalID: -326032929221474765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2056
+        width: 491
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9515acec4093ef0800000000000000
+      internalID: -128065828199245382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2051
+        width: 501
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5fc127b2733a30800000000000000
+      internalID: 4193821808883882696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2047
+        width: 509
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b205c94f716cefe0800000000000000
+      internalID: -1158443804814671182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_12
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2100
+        width: 379
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64e1b03163b8e90800000000000000
+      internalID: -7022459738535344406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_13
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 2047
+        width: 510
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ffb165a22c821b0800000000000000
+      internalID: -5681077442838790392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_14
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2047
+        width: 459
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05759597fce7f15e0800000000000000
+      internalID: -1936689885186795696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_15
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 2048
+        width: 359
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c24a79feacfa00800000000000000
+      internalID: 791700021031650553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_16
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 2050
+        width: 367
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba65d586a35a8e6d0800000000000000
+      internalID: -2960935084718467413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_17
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 2047
+        width: 375
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19423dbc692b2ffe0800000000000000
+      internalID: -1156665793546345327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1544
+        width: 491
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7660e91f0e5cf4a50800000000000000
+      internalID: 6507637556490667623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1539
+        width: 501
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598228f10f1945ad0800000000000000
+      internalID: -2714384214890764139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_20
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1544
+        width: 491
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d2683c159786f0800000000000000
+      internalID: -682412870085715875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_21
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1542
+        width: 427
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a7181141350f00800000000000000
+      internalID: 1082325441099309468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_22
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1538
+        width: 464
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e1fc6afc447600800000000000000
+      internalID: 465081299979330645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_23
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1535
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32a48b9df3fd710800000000000000
+      internalID: 1720163787011138542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_24
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1535
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b38b9dba88c500800000000000000
+      internalID: 416735512494322514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_25
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 1535
+        width: 387
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e18466fc85187040800000000000000
+      internalID: 4645486710806053344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_26
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1537
+        width: 387
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c92fd0e913aea0800000000000000
+      internalID: -5862813836298827717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1025
+        width: 358
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a57eded58c4210800000000000000
+      internalID: 1318575983174198334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_28
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1025
+        width: 364
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10975554d0a0ddb10800000000000000
+      internalID: 2007772060991191297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_29
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1023
+        width: 369
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcd5a84838935e80800000000000000
+      internalID: -8191035929752380199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_30
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1023
+        width: 459
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798faa6d6d077980800000000000000
+      internalID: -8541343404692371085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_31
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1023
+        width: 459
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a8b0e5ed988a20800000000000000
+      internalID: 3064873157068891350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_32
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1023
+        width: 459
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0c5722f56ac130800000000000000
+      internalID: 3587792143870856007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_33
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1023
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97b1905ec6692b0800000000000000
+      internalID: -5578151357495674435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_34
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 1023
+        width: 387
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08692756ac7734210800000000000000
+      internalID: 1316027227291424384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_35
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1025
+        width: 387
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5754604ef5de900800000000000000
+      internalID: 715333348784174550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 511
+        width: 359
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9464eec1dc1fb3460800000000000000
+      internalID: 7222632290674689609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_37
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 515
+        width: 359
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03128e55e39774720800000000000000
+      internalID: 2830364199461855536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_38
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 513
+        width: 359
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d64161c4f631b00800000000000000
+      internalID: 798103931553344906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_39
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 511
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e894b048a79a78d80800000000000000
+      internalID: -8248437848839337586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_40
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 511
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043e9cc19cf74460800000000000000
+      internalID: 7226021830272627724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_41
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 511
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04880593f219e40800000000000000
+      internalID: 5661358129792172218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_42
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 511
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b8ecb2101e67960800000000000000
+      internalID: 7599508816380463879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_43
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 511
+        width: 387
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9719bc2da43fee730800000000000000
+      internalID: 4030426219232858489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_44
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 513
+        width: 387
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50e8069250e1990800000000000000
+      internalID: -7413482261333539395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 359
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91de28bc5088e96f0800000000000000
+      internalID: -675953335588426471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 361
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b0cdb153789430800000000000000
+      internalID: 3789905881345341084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 362
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf933b36b11f5ed0800000000000000
+      internalID: -2423198600127078473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_48
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 52
+        width: 379
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5ba4a698fc58c0800000000000000
+      internalID: -4009056242375107681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_49
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 0
+        width: 510
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd74c0847376af0800000000000000
+      internalID: -403292859043161277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_50
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 459
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c7ef4695832fd30800000000000000
+      internalID: 4463692137275227264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_51
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 495
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29539a7684edfa9f0800000000000000
+      internalID: -454900634782976622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_52
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 0
+        width: 495
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2158759e629ed0800000000000000
+      internalID: -2408741262442026086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OceanosL_53
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 0
+        width: 495
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac1b2888e068cc10800000000000000
+      internalID: 2074014180237319337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OceanosL_0: -2443184497187308669
+      OceanosL_1: 389955883725859551
+      OceanosL_10: 4193821808883882696
+      OceanosL_11: -1158443804814671182
+      OceanosL_12: -7022459738535344406
+      OceanosL_13: -5681077442838790392
+      OceanosL_14: -1936689885186795696
+      OceanosL_15: 791700021031650553
+      OceanosL_16: -2960935084718467413
+      OceanosL_17: -1156665793546345327
+      OceanosL_18: 6507637556490667623
+      OceanosL_19: -2714384214890764139
+      OceanosL_2: -5031583127868133074
+      OceanosL_20: -682412870085715875
+      OceanosL_21: 1082325441099309468
+      OceanosL_22: 465081299979330645
+      OceanosL_23: 1720163787011138542
+      OceanosL_24: 416735512494322514
+      OceanosL_25: 4645486710806053344
+      OceanosL_26: -5862813836298827717
+      OceanosL_27: 1318575983174198334
+      OceanosL_28: 2007772060991191297
+      OceanosL_29: -8191035929752380199
+      OceanosL_3: 3013345415403592142
+      OceanosL_30: -8541343404692371085
+      OceanosL_31: 3064873157068891350
+      OceanosL_32: 3587792143870856007
+      OceanosL_33: -5578151357495674435
+      OceanosL_34: 1316027227291424384
+      OceanosL_35: 715333348784174550
+      OceanosL_36: 7222632290674689609
+      OceanosL_37: 2830364199461855536
+      OceanosL_38: 798103931553344906
+      OceanosL_39: -8248437848839337586
+      OceanosL_4: 1247478238608682999
+      OceanosL_40: 7226021830272627724
+      OceanosL_41: 5661358129792172218
+      OceanosL_42: 7599508816380463879
+      OceanosL_43: 4030426219232858489
+      OceanosL_44: -7413482261333539395
+      OceanosL_45: -675953335588426471
+      OceanosL_46: 3789905881345341084
+      OceanosL_47: -2423198600127078473
+      OceanosL_48: -4009056242375107681
+      OceanosL_49: -403292859043161277
+      OceanosL_5: -2289010033508865729
+      OceanosL_50: 4463692137275227264
+      OceanosL_51: -454900634782976622
+      OceanosL_52: -2408741262442026086
+      OceanosL_53: 2074014180237319337
+      OceanosL_6: 7123932239034158933
+      OceanosL_7: -695925078483160390
+      OceanosL_8: -326032929221474765
+      OceanosL_9: -128065828199245382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

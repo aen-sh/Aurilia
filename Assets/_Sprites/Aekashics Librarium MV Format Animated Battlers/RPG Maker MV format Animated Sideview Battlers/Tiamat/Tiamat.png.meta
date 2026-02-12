@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 640a61519dffaa44c8d8427bc648271d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1317613352914013690
+    second: Tiamat_0
+  - first:
+      213: -1516859160650891250
+    second: Tiamat_1
+  - first:
+      213: 5875761771480404123
+    second: Tiamat_2
+  - first:
+      213: -647362046211693469
+    second: Tiamat_3
+  - first:
+      213: -777431429556418818
+    second: Tiamat_4
+  - first:
+      213: 2619739526163019552
+    second: Tiamat_5
+  - first:
+      213: 3344850295588207463
+    second: Tiamat_6
+  - first:
+      213: 7034002771048691841
+    second: Tiamat_7
+  - first:
+      213: -823983385536896662
+    second: Tiamat_8
+  - first:
+      213: -3277125383403151101
+    second: Tiamat_9
+  - first:
+      213: 8277817766195573460
+    second: Tiamat_10
+  - first:
+      213: -6107976686115430081
+    second: Tiamat_11
+  - first:
+      213: -2415672233005993878
+    second: Tiamat_12
+  - first:
+      213: -6167889879562332192
+    second: Tiamat_13
+  - first:
+      213: -4674267625084726155
+    second: Tiamat_14
+  - first:
+      213: 1148290572289950607
+    second: Tiamat_15
+  - first:
+      213: 8824747024705585420
+    second: Tiamat_16
+  - first:
+      213: 8672939790299718294
+    second: Tiamat_17
+  - first:
+      213: -8300566451556335264
+    second: Tiamat_18
+  - first:
+      213: -5423821462071726040
+    second: Tiamat_19
+  - first:
+      213: -7779060919129359744
+    second: Tiamat_20
+  - first:
+      213: 3568615472813104623
+    second: Tiamat_21
+  - first:
+      213: -696611234395664648
+    second: Tiamat_22
+  - first:
+      213: 3955579079499882593
+    second: Tiamat_23
+  - first:
+      213: -2040220084773646086
+    second: Tiamat_24
+  - first:
+      213: -3325294809739497448
+    second: Tiamat_25
+  - first:
+      213: -716367198012772058
+    second: Tiamat_26
+  - first:
+      213: 1887145955526211678
+    second: Tiamat_27
+  - first:
+      213: -36807468667387316
+    second: Tiamat_28
+  - first:
+      213: 2837473568577810625
+    second: Tiamat_29
+  - first:
+      213: 5460612656743457612
+    second: Tiamat_30
+  - first:
+      213: -1826232461471337786
+    second: Tiamat_31
+  - first:
+      213: 808886537255556267
+    second: Tiamat_32
+  - first:
+      213: 6767992568698396495
+    second: Tiamat_33
+  - first:
+      213: 7740682470203915253
+    second: Tiamat_34
+  - first:
+      213: -6833182990930526687
+    second: Tiamat_35
+  - first:
+      213: 524162823658826040
+    second: Tiamat_36
+  - first:
+      213: -2582336575559458200
+    second: Tiamat_37
+  - first:
+      213: -6164874880075400515
+    second: Tiamat_38
+  - first:
+      213: -3991885816833160501
+    second: Tiamat_39
+  - first:
+      213: 7444738300424316990
+    second: Tiamat_40
+  - first:
+      213: 2510089554781914697
+    second: Tiamat_41
+  - first:
+      213: -444056261147165271
+    second: Tiamat_42
+  - first:
+      213: 7176739595786213332
+    second: Tiamat_43
+  - first:
+      213: -5875449908028724033
+    second: Tiamat_44
+  - first:
+      213: -595906665020439440
+    second: Tiamat_45
+  - first:
+      213: -1601088251175964053
+    second: Tiamat_46
+  - first:
+      213: 6490453327135893014
+    second: Tiamat_47
+  - first:
+      213: 8535633415044538765
+    second: Tiamat_48
+  - first:
+      213: -2741910898917206316
+    second: Tiamat_49
+  - first:
+      213: -8073864914577687190
+    second: Tiamat_50
+  - first:
+      213: -8649136359503534010
+    second: Tiamat_51
+  - first:
+      213: 3579844420236335771
+    second: Tiamat_52
+  - first:
+      213: -9130038555323459068
+    second: Tiamat_53
+  - first:
+      213: 9054269598566690324
+    second: Tiamat_54
+  - first:
+      213: 8455438251302817667
+    second: Tiamat_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiamat_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2559
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd40cb0d5a194210800000000000000
+      internalID: 1317613352914013690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2559
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e004b1b41a803fae0800000000000000
+      internalID: -1516859160650891250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_2
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2559
+        width: 435
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d8e53336ea8150800000000000000
+      internalID: 5875761771480404123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_3
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2551
+        width: 521
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646b7a16ab1407f0800000000000000
+      internalID: -647362046211693469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_4
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2551
+        width: 500
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6c01cdb320635f0800000000000000
+      internalID: -777431429556418818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_5
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2559
+        width: 484
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273ff4183f2b5420800000000000000
+      internalID: 2619739526163019552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_6
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2563
+        width: 405
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b356f3f9b4b6e20800000000000000
+      internalID: 3344850295588207463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_7
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 2560
+        width: 424
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1887875a04ccd9160800000000000000
+      internalID: 7034002771048691841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_8
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 2559
+        width: 434
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ef3cf97f9094f0800000000000000
+      internalID: -823983385536896662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2047
+        width: 463
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e6d5a3df4582d0800000000000000
+      internalID: -3277125383403151101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2047
+        width: 467
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2318d8667b0e270800000000000000
+      internalID: 8277817766195573460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_11
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2047
+        width: 469
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e8bfb09b1c3ba0800000000000000
+      internalID: -6107976686115430081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_12
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2047
+        width: 458
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6037e127eec97ed0800000000000000
+      internalID: -2415672233005993878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_13
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d5fa55d0476aa0800000000000000
+      internalID: -6167889879562332192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_14
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2047
+        width: 471
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57457bd3c5aa12fb0800000000000000
+      internalID: -4674267625084726155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_15
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2047
+        width: 452
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c54c013c8fef00800000000000000
+      internalID: 1148290572289950607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_16
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 2047
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010348d9acc77a70800000000000000
+      internalID: 8824747024705585420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_17
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2047
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926a2fb9c87c5870800000000000000
+      internalID: 8672939790299718294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_18
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 2047
+        width: 435
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c5746ac67ecc80800000000000000
+      internalID: -8300566451556335264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_19
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1806
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820331ced17bab4b0800000000000000
+      internalID: -5423821462071726040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_20
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1535
+        width: 459
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abb2d2f493b0490800000000000000
+      internalID: -7779060919129359744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_21
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1535
+        width: 416
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feddcfc7dd4468130800000000000000
+      internalID: 3568615472813104623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1535
+        width: 463
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fecc4be5c32556f0800000000000000
+      internalID: -696611234395664648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1535
+        width: 467
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ae8a173a05e630800000000000000
+      internalID: 3955579079499882593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_24
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1535
+        width: 469
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0137774aeafa3e0800000000000000
+      internalID: -2040220084773646086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_25
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1532
+        width: 451
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810f60c1dfd2ad1d0800000000000000
+      internalID: -3325294809739497448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_26
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1535
+        width: 379
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f4b134d3fe06f0800000000000000
+      internalID: -716367198012772058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_27
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1535
+        width: 386
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58747e7f3d703a10800000000000000
+      internalID: 1887145955526211678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_28
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1535
+        width: 390
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42cff06dcb3d7ff0800000000000000
+      internalID: -36807468667387316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1023
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f3a25d2bb06720800000000000000
+      internalID: 2837473568577810625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1023
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43223d974ef7cb40800000000000000
+      internalID: 5460612656743457612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1023
+        width: 435
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b6b8804be7a6e0800000000000000
+      internalID: -1826232461471337786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_32
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1023
+        width: 420
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba496bc150eb93b00800000000000000
+      internalID: 808886537255556267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_33
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1023
+        width: 424
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f50c3026dbced50800000000000000
+      internalID: 6767992568698396495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_34
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1023
+        width: 425
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf89bd1bd6c6b60800000000000000
+      internalID: 7740682470203915253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_35
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1023
+        width: 379
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e38540648ab21a0800000000000000
+      internalID: -6833182990930526687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_36
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1023
+        width: 386
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83966ac9f43364700800000000000000
+      internalID: 524162823658826040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_37
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1023
+        width: 390
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a74bf092b92cd0800000000000000
+      internalID: -2582336575559458200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 513
+        width: 434
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7060a5f6f17aa0800000000000000
+      internalID: -6164874880075400515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 513
+        width: 434
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca4dbfdff8f998c0800000000000000
+      internalID: -3991885816833160501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_40
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 513
+        width: 434
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3869825a06015760800000000000000
+      internalID: 7444738300424316990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_41
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 511
+        width: 399
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c13ba621a5d220800000000000000
+      internalID: 2510089554781914697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_42
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 511
+        width: 396
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adf806ee2566d9f0800000000000000
+      internalID: -444056261147165271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_43
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 511
+        width: 393
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7515c63a6e89360800000000000000
+      internalID: 7176739595786213332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_44
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 511
+        width: 379
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca8582075367ea0800000000000000
+      internalID: -5875449908028724033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_45
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 511
+        width: 386
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0744b20ab0aeab7f0800000000000000
+      internalID: -595906665020439440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_46
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 511
+        width: 390
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62fa9ee7bac7c9e0800000000000000
+      internalID: -1601088251175964053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 394
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ef23c9e8b21a50800000000000000
+      internalID: 6490453327135893014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_48
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 16
+        width: 400
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812fa40e59a47670800000000000000
+      internalID: 8535633415044538765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_49
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 406
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d694409096c2f9d0800000000000000
+      internalID: -2741910898917206316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_50
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 0
+        width: 449
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d7b1a23aed3ff80800000000000000
+      internalID: -8073864914577687190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_51
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 0
+        width: 451
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64860ed5e4818f780800000000000000
+      internalID: -8649136359503534010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_52
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 452
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ad95b88892ea130800000000000000
+      internalID: 3579844420236335771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_53
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 0
+        width: 372
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a13549e469b4180800000000000000
+      internalID: -9130038555323459068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_54
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 372
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eaf237a3a37ad70800000000000000
+      internalID: 9054269598566690324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiamat_55
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 0
+        width: 372
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f872d6a40c75570800000000000000
+      internalID: 8455438251302817667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiamat_0: 1317613352914013690
+      Tiamat_1: -1516859160650891250
+      Tiamat_10: 8277817766195573460
+      Tiamat_11: -6107976686115430081
+      Tiamat_12: -2415672233005993878
+      Tiamat_13: -6167889879562332192
+      Tiamat_14: -4674267625084726155
+      Tiamat_15: 1148290572289950607
+      Tiamat_16: 8824747024705585420
+      Tiamat_17: 8672939790299718294
+      Tiamat_18: -8300566451556335264
+      Tiamat_19: -5423821462071726040
+      Tiamat_2: 5875761771480404123
+      Tiamat_20: -7779060919129359744
+      Tiamat_21: 3568615472813104623
+      Tiamat_22: -696611234395664648
+      Tiamat_23: 3955579079499882593
+      Tiamat_24: -2040220084773646086
+      Tiamat_25: -3325294809739497448
+      Tiamat_26: -716367198012772058
+      Tiamat_27: 1887145955526211678
+      Tiamat_28: -36807468667387316
+      Tiamat_29: 2837473568577810625
+      Tiamat_3: -647362046211693469
+      Tiamat_30: 5460612656743457612
+      Tiamat_31: -1826232461471337786
+      Tiamat_32: 808886537255556267
+      Tiamat_33: 6767992568698396495
+      Tiamat_34: 7740682470203915253
+      Tiamat_35: -6833182990930526687
+      Tiamat_36: 524162823658826040
+      Tiamat_37: -2582336575559458200
+      Tiamat_38: -6164874880075400515
+      Tiamat_39: -3991885816833160501
+      Tiamat_4: -777431429556418818
+      Tiamat_40: 7444738300424316990
+      Tiamat_41: 2510089554781914697
+      Tiamat_42: -444056261147165271
+      Tiamat_43: 7176739595786213332
+      Tiamat_44: -5875449908028724033
+      Tiamat_45: -595906665020439440
+      Tiamat_46: -1601088251175964053
+      Tiamat_47: 6490453327135893014
+      Tiamat_48: 8535633415044538765
+      Tiamat_49: -2741910898917206316
+      Tiamat_5: 2619739526163019552
+      Tiamat_50: -8073864914577687190
+      Tiamat_51: -8649136359503534010
+      Tiamat_52: 3579844420236335771
+      Tiamat_53: -9130038555323459068
+      Tiamat_54: 9054269598566690324
+      Tiamat_55: 8455438251302817667
+      Tiamat_6: 3344850295588207463
+      Tiamat_7: 7034002771048691841
+      Tiamat_8: -823983385536896662
+      Tiamat_9: -3277125383403151101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

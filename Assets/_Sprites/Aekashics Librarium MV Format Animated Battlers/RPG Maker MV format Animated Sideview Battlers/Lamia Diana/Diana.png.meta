@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 05f33bb52ce321347b975d9473241eb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2940995535662453924
+    second: Diana_0
+  - first:
+      213: -8265541187956240782
+    second: Diana_1
+  - first:
+      213: 1436729281720235481
+    second: Diana_2
+  - first:
+      213: -8101679656497959034
+    second: Diana_3
+  - first:
+      213: 834971255848203541
+    second: Diana_4
+  - first:
+      213: 7931504851123810647
+    second: Diana_5
+  - first:
+      213: -6571478656082208581
+    second: Diana_6
+  - first:
+      213: 7948314028200627608
+    second: Diana_7
+  - first:
+      213: -188372839823056157
+    second: Diana_8
+  - first:
+      213: -3108466109600246037
+    second: Diana_9
+  - first:
+      213: -7826833592799649718
+    second: Diana_10
+  - first:
+      213: 333072429002291218
+    second: Diana_11
+  - first:
+      213: 8155598409223387482
+    second: Diana_12
+  - first:
+      213: -921462390560150704
+    second: Diana_13
+  - first:
+      213: 8423540385896874188
+    second: Diana_14
+  - first:
+      213: -2132434736318363336
+    second: Diana_15
+  - first:
+      213: 2702220110141808572
+    second: Diana_16
+  - first:
+      213: 348682476740437124
+    second: Diana_17
+  - first:
+      213: 6173644344564394638
+    second: Diana_18
+  - first:
+      213: -2145137546553098539
+    second: Diana_19
+  - first:
+      213: -9199240623491417492
+    second: Diana_20
+  - first:
+      213: 3799514396007553786
+    second: Diana_21
+  - first:
+      213: -1721845129513779588
+    second: Diana_22
+  - first:
+      213: 2982333276572662957
+    second: Diana_23
+  - first:
+      213: -8024898674648082561
+    second: Diana_24
+  - first:
+      213: 2333614499385959717
+    second: Diana_25
+  - first:
+      213: 2615766668587114548
+    second: Diana_26
+  - first:
+      213: 2042594327719961511
+    second: Diana_27
+  - first:
+      213: -3878299712236706962
+    second: Diana_28
+  - first:
+      213: 105872998785430450
+    second: Diana_29
+  - first:
+      213: 1762145433338633471
+    second: Diana_30
+  - first:
+      213: 1826989463247235748
+    second: Diana_31
+  - first:
+      213: -3358478977524619028
+    second: Diana_32
+  - first:
+      213: 870920898683723536
+    second: Diana_33
+  - first:
+      213: -6716885598445344937
+    second: Diana_34
+  - first:
+      213: 313190376347973022
+    second: Diana_35
+  - first:
+      213: -1612663564717306535
+    second: Diana_36
+  - first:
+      213: 5138876218938359514
+    second: Diana_37
+  - first:
+      213: 8680927224411675237
+    second: Diana_38
+  - first:
+      213: 6104209954194365930
+    second: Diana_39
+  - first:
+      213: -2044576973174047669
+    second: Diana_40
+  - first:
+      213: -5530264011353724858
+    second: Diana_41
+  - first:
+      213: -2330961912497666188
+    second: Diana_42
+  - first:
+      213: -8447744365257034020
+    second: Diana_43
+  - first:
+      213: 3399894177141488382
+    second: Diana_44
+  - first:
+      213: -844434570988977528
+    second: Diana_45
+  - first:
+      213: 1559701186776667548
+    second: Diana_46
+  - first:
+      213: -997289925402734011
+    second: Diana_47
+  - first:
+      213: 8613314590609874419
+    second: Diana_48
+  - first:
+      213: 5382387271085813203
+    second: Diana_49
+  - first:
+      213: -5606031987637349805
+    second: Diana_50
+  - first:
+      213: -557741567886365204
+    second: Diana_51
+  - first:
+      213: -2434457292055425844
+    second: Diana_52
+  - first:
+      213: -6394635609488566189
+    second: Diana_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diana_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1279
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b64d2742c7f27d0800000000000000
+      internalID: -2940995535662453924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1279
+        width: 203
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e028f0516ea4d80800000000000000
+      internalID: -8265541187956240782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_2
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1279
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5365b6ba940f310800000000000000
+      internalID: 1436729281720235481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1279
+        width: 230
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2e66e64d019f80800000000000000
+      internalID: -8101679656497959034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1279
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157e7eeee9669b00800000000000000
+      internalID: 834971255848203541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1279
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b581a3ad521e60800000000000000
+      internalID: 7931504851123810647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_6
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1279
+        width: 176
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8982fbafa6dc4a0800000000000000
+      internalID: -6571478656082208581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_7
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1279
+        width: 176
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d07262f751e4e60800000000000000
+      internalID: 7948314028200627608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1279
+        width: 176
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e30576e3c26df0800000000000000
+      internalID: -188372839823056157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1023
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6dfecea828cd4d0800000000000000
+      internalID: -3108466109600246037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1023
+        width: 203
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402511d050816390800000000000000
+      internalID: -7826833592799649718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1023
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21878270c9f4f9400800000000000000
+      internalID: 333072429002291218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1023
+        width: 230
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5930800b818e2170800000000000000
+      internalID: 8155598409223387482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1023
+        width: 231
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba7c086de4633f0800000000000000
+      internalID: -921462390560150704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_14
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1023
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04a84e95d66e470800000000000000
+      internalID: 8423540385896874188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_15
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1023
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394a0bc7e11862e0800000000000000
+      internalID: -2132434736318363336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_16
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1023
+        width: 203
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf5be98fd6308520800000000000000
+      internalID: 2702220110141808572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_17
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1023
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484648d7dd4c6d400800000000000000
+      internalID: 348682476740437124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 767
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2c5f62d03da550800000000000000
+      internalID: 6173644344564394638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 767
+        width: 203
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de795f44c0fa32e0800000000000000
+      internalID: -2145137546553098539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 767
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a7371846bb55080800000000000000
+      internalID: -9199240623491417492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 767
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa530566369ab430800000000000000
+      internalID: 3799514396007553786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_22
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 767
+        width: 223
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e38193af6ca18e0800000000000000
+      internalID: -1721845129513779588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_23
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 767
+        width: 225
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacb0ff5050636920800000000000000
+      internalID: 2982333276572662957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_24
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 767
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7719135c25d1a090800000000000000
+      internalID: -8024898674648082561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_25
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 767
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525e99ee50aa26020800000000000000
+      internalID: 2333614499385959717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_26
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 767
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43021781de11d4420800000000000000
+      internalID: 2615766668587114548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 219
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e9fb08b0c85c10800000000000000
+      internalID: 2042594327719961511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 511
+        width: 220
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a1a7b5f28d2ac0800000000000000
+      internalID: -3878299712236706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 511
+        width: 221
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b339e37ee2287100800000000000000
+      internalID: 105872998785430450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_30
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 511
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd9b47fe5647810800000000000000
+      internalID: 1762145433338633471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 511
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaab3dac35ca5910800000000000000
+      internalID: 1826989463247235748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_32
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 511
+        width: 232
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82707f9294461d0800000000000000
+      internalID: -3358478977524619028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_33
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 511
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fd18961f1261c00800000000000000
+      internalID: 870920898683723536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_34
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 511
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7576ab3c224d8c2a0800000000000000
+      internalID: -6716885598445344937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_35
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 511
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ba49ecfca85400800000000000000
+      internalID: 313190376347973022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 255
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d4fca380bae99e0800000000000000
+      internalID: -1612663564717306535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 255
+        width: 203
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adef586b1b4f05740800000000000000
+      internalID: 5138876218938359514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_38
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 255
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a531c2159d87870800000000000000
+      internalID: 8680927224411675237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 255
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9822ac9286b450800000000000000
+      internalID: 6104209954194365930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_40
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 255
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7406531430a3e0800000000000000
+      internalID: -2044576973174047669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_41
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 255
+        width: 232
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6486229ae2e8043b0800000000000000
+      internalID: -5530264011353724858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_42
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 255
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778c949d72c6afd0800000000000000
+      internalID: -2330961912497666188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_43
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 255
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fb83024593ca80800000000000000
+      internalID: -8447744365257034020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_44
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 255
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaff6e9db9de2f20800000000000000
+      internalID: 3399894177141488382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88284205b37f744f0800000000000000
+      internalID: -844434570988977528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_46
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95149937fb25a510800000000000000
+      internalID: 1559701186776667548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425b42c81ae822f0800000000000000
+      internalID: -997289925402734011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9dff1cf3a88770800000000000000
+      internalID: 8613314590609874419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_49
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd67a8b4b412ba40800000000000000
+      internalID: 5382387271085813203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_50
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 232
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521669fb9f5332b0800000000000000
+      internalID: -5606031987637349805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_51
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 167
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede9a1cff08248f0800000000000000
+      internalID: -557741567886365204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_52
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 167
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4d2ebdf1173ed0800000000000000
+      internalID: -2434457292055425844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diana_53
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 167
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358de5c1bc0b147a0800000000000000
+      internalID: -6394635609488566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Diana_0: -2940995535662453924
+      Diana_1: -8265541187956240782
+      Diana_10: -7826833592799649718
+      Diana_11: 333072429002291218
+      Diana_12: 8155598409223387482
+      Diana_13: -921462390560150704
+      Diana_14: 8423540385896874188
+      Diana_15: -2132434736318363336
+      Diana_16: 2702220110141808572
+      Diana_17: 348682476740437124
+      Diana_18: 6173644344564394638
+      Diana_19: -2145137546553098539
+      Diana_2: 1436729281720235481
+      Diana_20: -9199240623491417492
+      Diana_21: 3799514396007553786
+      Diana_22: -1721845129513779588
+      Diana_23: 2982333276572662957
+      Diana_24: -8024898674648082561
+      Diana_25: 2333614499385959717
+      Diana_26: 2615766668587114548
+      Diana_27: 2042594327719961511
+      Diana_28: -3878299712236706962
+      Diana_29: 105872998785430450
+      Diana_3: -8101679656497959034
+      Diana_30: 1762145433338633471
+      Diana_31: 1826989463247235748
+      Diana_32: -3358478977524619028
+      Diana_33: 870920898683723536
+      Diana_34: -6716885598445344937
+      Diana_35: 313190376347973022
+      Diana_36: -1612663564717306535
+      Diana_37: 5138876218938359514
+      Diana_38: 8680927224411675237
+      Diana_39: 6104209954194365930
+      Diana_4: 834971255848203541
+      Diana_40: -2044576973174047669
+      Diana_41: -5530264011353724858
+      Diana_42: -2330961912497666188
+      Diana_43: -8447744365257034020
+      Diana_44: 3399894177141488382
+      Diana_45: -844434570988977528
+      Diana_46: 1559701186776667548
+      Diana_47: -997289925402734011
+      Diana_48: 8613314590609874419
+      Diana_49: 5382387271085813203
+      Diana_5: 7931504851123810647
+      Diana_50: -5606031987637349805
+      Diana_51: -557741567886365204
+      Diana_52: -2434457292055425844
+      Diana_53: -6394635609488566189
+      Diana_6: -6571478656082208581
+      Diana_7: 7948314028200627608
+      Diana_8: -188372839823056157
+      Diana_9: -3108466109600246037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

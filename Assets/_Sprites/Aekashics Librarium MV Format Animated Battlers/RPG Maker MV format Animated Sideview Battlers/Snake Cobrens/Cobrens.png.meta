@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 0fedc69144465c04984b55532b17b78b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3131402353765748085
+    second: Cobrens_0
+  - first:
+      213: 282441247349635451
+    second: Cobrens_1
+  - first:
+      213: -2606769450577244679
+    second: Cobrens_2
+  - first:
+      213: -2258800307717764079
+    second: Cobrens_3
+  - first:
+      213: 5691009588483014625
+    second: Cobrens_4
+  - first:
+      213: -5997547628485984632
+    second: Cobrens_5
+  - first:
+      213: -6654538193537475747
+    second: Cobrens_6
+  - first:
+      213: -1085420627256708496
+    second: Cobrens_7
+  - first:
+      213: -2193993312667761644
+    second: Cobrens_8
+  - first:
+      213: 1668909532477674402
+    second: Cobrens_9
+  - first:
+      213: -2978350206879046427
+    second: Cobrens_10
+  - first:
+      213: 6901508053539597883
+    second: Cobrens_11
+  - first:
+      213: 7262509636196409877
+    second: Cobrens_12
+  - first:
+      213: 7717929262643756579
+    second: Cobrens_13
+  - first:
+      213: 7238955095736917153
+    second: Cobrens_14
+  - first:
+      213: -4795862258333494372
+    second: Cobrens_15
+  - first:
+      213: -4554644905346258913
+    second: Cobrens_16
+  - first:
+      213: 4286418619097902505
+    second: Cobrens_17
+  - first:
+      213: -5876032260266752209
+    second: Cobrens_18
+  - first:
+      213: -5400951190203322274
+    second: Cobrens_19
+  - first:
+      213: -8673812713626605374
+    second: Cobrens_20
+  - first:
+      213: 3899307239237587002
+    second: Cobrens_21
+  - first:
+      213: -3545388409096786787
+    second: Cobrens_22
+  - first:
+      213: 5362886898861708570
+    second: Cobrens_23
+  - first:
+      213: -8423593535392898129
+    second: Cobrens_24
+  - first:
+      213: -5202278269126658577
+    second: Cobrens_25
+  - first:
+      213: -3076788710594790638
+    second: Cobrens_26
+  - first:
+      213: -4277577551094327527
+    second: Cobrens_27
+  - first:
+      213: -8614725403123186381
+    second: Cobrens_28
+  - first:
+      213: -8700388906324667032
+    second: Cobrens_29
+  - first:
+      213: 341293892264513128
+    second: Cobrens_30
+  - first:
+      213: -348225411653631628
+    second: Cobrens_31
+  - first:
+      213: 1264573823875671762
+    second: Cobrens_32
+  - first:
+      213: 7228756128146101796
+    second: Cobrens_33
+  - first:
+      213: -5531267866426722457
+    second: Cobrens_34
+  - first:
+      213: 1817373004379386477
+    second: Cobrens_35
+  - first:
+      213: -4072565039680555064
+    second: Cobrens_36
+  - first:
+      213: -6543713441058409817
+    second: Cobrens_37
+  - first:
+      213: 1764265392543886861
+    second: Cobrens_38
+  - first:
+      213: 8659599299604670853
+    second: Cobrens_39
+  - first:
+      213: 6032222370649413168
+    second: Cobrens_40
+  - first:
+      213: -132226084695031088
+    second: Cobrens_41
+  - first:
+      213: 1065748280521901200
+    second: Cobrens_42
+  - first:
+      213: 4175128229986171655
+    second: Cobrens_43
+  - first:
+      213: 1826108097404562141
+    second: Cobrens_44
+  - first:
+      213: 4533618083572338757
+    second: Cobrens_45
+  - first:
+      213: 3230193730646889795
+    second: Cobrens_46
+  - first:
+      213: 4859453652170979062
+    second: Cobrens_47
+  - first:
+      213: -5857389256827928664
+    second: Cobrens_48
+  - first:
+      213: -8862305642777037792
+    second: Cobrens_49
+  - first:
+      213: -4171943453407358914
+    second: Cobrens_50
+  - first:
+      213: 7540268932410004474
+    second: Cobrens_51
+  - first:
+      213: -4953966058880124400
+    second: Cobrens_52
+  - first:
+      213: -8186173492374376344
+    second: Cobrens_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cobrens_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 639
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d870199d9f47b20800000000000000
+      internalID: 3131402353765748085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 639
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79713a61de6be300800000000000000
+      internalID: 282441247349635451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 639
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdc007fef4e2dbd0800000000000000
+      internalID: -2606769450577244679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 639
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c80f7761127a0e0800000000000000
+      internalID: -2258800307717764079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 639
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3fd681178afe40800000000000000
+      internalID: 5691009588483014625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 639
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e3b90553e64cca0800000000000000
+      internalID: -5997547628485984632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 639
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdded25c456a3a0800000000000000
+      internalID: -6654538193537475747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 639
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727b78b0bfcfe0f0800000000000000
+      internalID: -1085420627256708496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 639
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140bd6d4be5d81e0800000000000000
+      internalID: -2193993312667761644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35895a068292710800000000000000
+      internalID: 1668909532477674402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 511
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4634e4446caa6d0800000000000000
+      internalID: -2978350206879046427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 511
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea9b9420517cf50800000000000000
+      internalID: 6901508053539597883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 511
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512a653290e99c460800000000000000
+      internalID: 7262509636196409877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 511
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e3975e5c79b1b60800000000000000
+      internalID: 7717929262643756579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 511
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac17625e4fe57460800000000000000
+      internalID: 7238955095736917153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 511
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9354548faca17db0800000000000000
+      internalID: -4795862258333494372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_16
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 511
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f182bc21796aac0c0800000000000000
+      internalID: -4554644905346258913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 511
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad63fd060b6c7b30800000000000000
+      internalID: 4286418619097902505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278016bac3247ea0800000000000000
+      internalID: -5876032260266752209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5035ba0287fb05b0800000000000000
+      internalID: -5400951190203322274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 383
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e404fa4d60a780800000000000000
+      internalID: -8673812713626605374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a309dd0564f1d1630800000000000000
+      internalID: 3899307239237587002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 383
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9caff4b6004ccec0800000000000000
+      internalID: -3545388409096786787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 383
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159f31883dcc6a40800000000000000
+      internalID: 5362886898861708570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_24
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 383
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa321a64f42691b80800000000000000
+      internalID: -8423593535392898129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_25
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 383
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b8f12a7bcdc7b0800000000000000
+      internalID: -5202278269126658577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_26
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 383
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb01028fc0d45d0800000000000000
+      internalID: -3076788710594790638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91756df71edf2a4c0800000000000000
+      internalID: -4277577551094327527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 255
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3350f4d73e8527880800000000000000
+      internalID: -8614725403123186381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 127
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d4c6e262024780800000000000000
+      internalID: -8700388906324667032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecf6c9cf48cb400800000000000000
+      internalID: 341293892264513128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 127
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710f9445dada2bf0800000000000000
+      internalID: -348225411653631628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ed5c513bac8110800000000000000
+      internalID: 1264573823875671762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 255
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42693122663b15460800000000000000
+      internalID: 7228756128146101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673a107e2dfc33b0800000000000000
+      internalID: -5531267866426722457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 255
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62fa6e5e1b983910800000000000000
+      internalID: 1817373004379386477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 255
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c77a2d7ca75b77c0800000000000000
+      internalID: -4072565039680555064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 255
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b3c1ab4f0035a0800000000000000
+      internalID: -6543713441058409817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_38
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 255
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee71ce60eeb7810800000000000000
+      internalID: 1764265392543886861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896826bea31d2870800000000000000
+      internalID: 8659599299604670853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03619b83942c6b350800000000000000
+      internalID: 6032222370649413168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 127
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d246b7931d3a2ef0800000000000000
+      internalID: -132226084695031088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_42
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 127
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094cd702a6c4ace00800000000000000
+      internalID: 1065748280521901200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_43
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 127
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bf700210901f930800000000000000
+      internalID: 4175128229986171655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_44
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 127
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda6343b3a3a75910800000000000000
+      internalID: 1826108097404562141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540dd9a70a5aaee30800000000000000
+      internalID: 4533618083572338757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d6ee6514f3dc20800000000000000
+      internalID: 3230193730646889795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63024a95f307340800000000000000
+      internalID: 4859453652170979062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff493318f56bea0800000000000000
+      internalID: -5857389256827928664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_49
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b55fe8f3c20580800000000000000
+      internalID: -8862305642777037792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3053a478874a16c0800000000000000
+      internalID: -4171943453407358914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_51
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3563bd4aa64a860800000000000000
+      internalID: 7540268932410004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_52
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01abb1fdd1aff3bb0800000000000000
+      internalID: -4953966058880124400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobrens_53
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607e45b49ed46e80800000000000000
+      internalID: -8186173492374376344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cobrens_0: 3131402353765748085
+      Cobrens_1: 282441247349635451
+      Cobrens_10: -2978350206879046427
+      Cobrens_11: 6901508053539597883
+      Cobrens_12: 7262509636196409877
+      Cobrens_13: 7717929262643756579
+      Cobrens_14: 7238955095736917153
+      Cobrens_15: -4795862258333494372
+      Cobrens_16: -4554644905346258913
+      Cobrens_17: 4286418619097902505
+      Cobrens_18: -5876032260266752209
+      Cobrens_19: -5400951190203322274
+      Cobrens_2: -2606769450577244679
+      Cobrens_20: -8673812713626605374
+      Cobrens_21: 3899307239237587002
+      Cobrens_22: -3545388409096786787
+      Cobrens_23: 5362886898861708570
+      Cobrens_24: -8423593535392898129
+      Cobrens_25: -5202278269126658577
+      Cobrens_26: -3076788710594790638
+      Cobrens_27: -4277577551094327527
+      Cobrens_28: -8614725403123186381
+      Cobrens_29: -8700388906324667032
+      Cobrens_3: -2258800307717764079
+      Cobrens_30: 341293892264513128
+      Cobrens_31: -348225411653631628
+      Cobrens_32: 1264573823875671762
+      Cobrens_33: 7228756128146101796
+      Cobrens_34: -5531267866426722457
+      Cobrens_35: 1817373004379386477
+      Cobrens_36: -4072565039680555064
+      Cobrens_37: -6543713441058409817
+      Cobrens_38: 1764265392543886861
+      Cobrens_39: 8659599299604670853
+      Cobrens_4: 5691009588483014625
+      Cobrens_40: 6032222370649413168
+      Cobrens_41: -132226084695031088
+      Cobrens_42: 1065748280521901200
+      Cobrens_43: 4175128229986171655
+      Cobrens_44: 1826108097404562141
+      Cobrens_45: 4533618083572338757
+      Cobrens_46: 3230193730646889795
+      Cobrens_47: 4859453652170979062
+      Cobrens_48: -5857389256827928664
+      Cobrens_49: -8862305642777037792
+      Cobrens_5: -5997547628485984632
+      Cobrens_50: -4171943453407358914
+      Cobrens_51: 7540268932410004474
+      Cobrens_52: -4953966058880124400
+      Cobrens_53: -8186173492374376344
+      Cobrens_6: -6654538193537475747
+      Cobrens_7: -1085420627256708496
+      Cobrens_8: -2193993312667761644
+      Cobrens_9: 1668909532477674402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 19c646348b48fab4ab9811585ef4ba2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2225647562592936590
+    second: Wispia_0
+  - first:
+      213: -6341468688522417004
+    second: Wispia_1
+  - first:
+      213: -4659011315328017201
+    second: Wispia_2
+  - first:
+      213: 9218380749195463488
+    second: Wispia_3
+  - first:
+      213: -5650114249126879370
+    second: Wispia_4
+  - first:
+      213: -5181824385005738000
+    second: Wispia_5
+  - first:
+      213: 717893256424626257
+    second: Wispia_6
+  - first:
+      213: 8627025869209439947
+    second: Wispia_7
+  - first:
+      213: -8108808568531961497
+    second: Wispia_8
+  - first:
+      213: -2007433601588265322
+    second: Wispia_9
+  - first:
+      213: 4038295437097871666
+    second: Wispia_10
+  - first:
+      213: -8119033891731108470
+    second: Wispia_11
+  - first:
+      213: -3363961823080233881
+    second: Wispia_12
+  - first:
+      213: -6492691448323793921
+    second: Wispia_13
+  - first:
+      213: -7001759528089772371
+    second: Wispia_14
+  - first:
+      213: -8313664602147274325
+    second: Wispia_15
+  - first:
+      213: -34171752221965572
+    second: Wispia_16
+  - first:
+      213: 411678641480572635
+    second: Wispia_17
+  - first:
+      213: -7958726295460400395
+    second: Wispia_18
+  - first:
+      213: 8549035751780435343
+    second: Wispia_19
+  - first:
+      213: -4335027984204171590
+    second: Wispia_20
+  - first:
+      213: 5688038776722000762
+    second: Wispia_21
+  - first:
+      213: -157520196484285020
+    second: Wispia_22
+  - first:
+      213: -6787624620893280085
+    second: Wispia_23
+  - first:
+      213: 254954264762825073
+    second: Wispia_24
+  - first:
+      213: -129498278714334685
+    second: Wispia_25
+  - first:
+      213: 9002942739755213976
+    second: Wispia_26
+  - first:
+      213: 5673619554485238209
+    second: Wispia_27
+  - first:
+      213: 4295621000250251266
+    second: Wispia_28
+  - first:
+      213: 3793583366312197672
+    second: Wispia_29
+  - first:
+      213: -770620709168922158
+    second: Wispia_30
+  - first:
+      213: 4363916955084997152
+    second: Wispia_31
+  - first:
+      213: 7000788331600798017
+    second: Wispia_32
+  - first:
+      213: -6026204782451796704
+    second: Wispia_33
+  - first:
+      213: 870932081769482567
+    second: Wispia_34
+  - first:
+      213: -5137236852810937910
+    second: Wispia_35
+  - first:
+      213: -5732527408875732451
+    second: Wispia_36
+  - first:
+      213: -606687166753553917
+    second: Wispia_37
+  - first:
+      213: -3538255982937536693
+    second: Wispia_38
+  - first:
+      213: 2104396135883075214
+    second: Wispia_39
+  - first:
+      213: -5013771655714119796
+    second: Wispia_40
+  - first:
+      213: -3040899485813180209
+    second: Wispia_41
+  - first:
+      213: 331027679211880605
+    second: Wispia_42
+  - first:
+      213: 5459174921771699237
+    second: Wispia_43
+  - first:
+      213: 5371684270549071995
+    second: Wispia_44
+  - first:
+      213: -6020058234857895296
+    second: Wispia_45
+  - first:
+      213: 5030723363430142468
+    second: Wispia_46
+  - first:
+      213: 184179352555795079
+    second: Wispia_47
+  - first:
+      213: -651455002992081915
+    second: Wispia_48
+  - first:
+      213: -5000180802620578769
+    second: Wispia_49
+  - first:
+      213: 1538481603689805244
+    second: Wispia_50
+  - first:
+      213: 5012706701635751955
+    second: Wispia_51
+  - first:
+      213: -8384164204221194668
+    second: Wispia_52
+  - first:
+      213: 4880312449918750865
+    second: Wispia_53
+  - first:
+      213: -441339285816439001
+    second: Wispia_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wispia_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1279
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1f647559ec11e0800000000000000
+      internalID: -2225647562592936590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1280
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ceb5a83d39ef7a0800000000000000
+      internalID: -6341468688522417004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1283
+        width: 147
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1959a4edd75fb0800000000000000
+      internalID: -4659011315328017201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1279
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b481843744eef70800000000000000
+      internalID: 9218380749195463488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1279
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f5b68a603c691b0800000000000000
+      internalID: -5650114249126879370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_5
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1296
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a6432d267618b0800000000000000
+      internalID: -5181824385005738000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_6
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1280
+        width: 98
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15896d7fc1876f900800000000000000
+      internalID: 717893256424626257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1279
+        width: 143
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce8552f15a59b770800000000000000
+      internalID: 8627025869209439947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_8
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1284
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7693209b199b77f80800000000000000
+      internalID: -8108808568531961497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_9
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1280
+        width: 127
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef52376c92424e0800000000000000
+      internalID: -2007433601588265322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1023
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ac42ed48ea0830800000000000000
+      internalID: 4038295437097871666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1024
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d820421b5635f80800000000000000
+      internalID: -8119033891731108470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1027
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764c3518b8ec051d0800000000000000
+      internalID: -3363961823080233881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1031
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb917a078355e5a0800000000000000
+      internalID: -6492691448323793921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_14
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1031
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae908d5ec0c4de90800000000000000
+      internalID: -7001759528089772371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_15
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1023
+        width: 161
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c54f871eef9c80800000000000000
+      internalID: -8313664602147274325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_16
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1023
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2057fe8f8968ff0800000000000000
+      internalID: -34171752221965572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_17
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1024
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde90131b8396b500800000000000000
+      internalID: 411678641480572635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_18
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1027
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b586f99cec8190800000000000000
+      internalID: -7958726295460400395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 767
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85ccf4b8b644a670800000000000000
+      internalID: 8549035751780435343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 767
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f12e2403e6d3c0800000000000000
+      internalID: -4335027984204171590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 767
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b89238129ffee40800000000000000
+      internalID: 5688038776722000762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 767
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adba93473060ddf0800000000000000
+      internalID: -157520196484285020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 767
+        width: 127
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e5f2ae538dc1a0800000000000000
+      internalID: -6787624620893280085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_24
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 768
+        width: 138
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179b8219d87c98300800000000000000
+      internalID: 254954264762825073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_25
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 767
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322253a600ee33ef0800000000000000
+      internalID: -129498278714334685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_26
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 770
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894aa40e8b0e0fc70800000000000000
+      internalID: 9002942739755213976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_27
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 773
+        width: 149
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c97dc7bceebcbe40800000000000000
+      internalID: 5673619554485238209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 511
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208df916a8c1d9b30800000000000000
+      internalID: 4295621000250251266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 513
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7edee8f385a430800000000000000
+      internalID: 3793583366312197672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 515
+        width: 162
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14d654c843e45f0800000000000000
+      internalID: -770620709168922158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_31
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 511
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224521895fbf8c30800000000000000
+      internalID: 4363916955084997152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_32
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 512
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141e3c455ebc72160800000000000000
+      internalID: 7000788331600798017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_33
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 515
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0255336bdae9e5ca0800000000000000
+      internalID: -6026204782451796704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_34
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 511
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498c5d2d1c261c00800000000000000
+      internalID: 870932081769482567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_35
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 514
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98825fc4ed4b8b0800000000000000
+      internalID: -5137236852810937910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_36
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 517
+        width: 149
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1285c0a1b8f170b0800000000000000
+      internalID: -5732527408875732451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 259
+        width: 139
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302cdd77c3d9497f0800000000000000
+      internalID: -606687166753553917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 257
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478b941ee695eec0800000000000000
+      internalID: -3538255982937536693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 255
+        width: 113
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee302d221543d10800000000000000
+      internalID: 2104396135883075214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_40
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 255
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fdc344e318b6ab0800000000000000
+      internalID: -5013771655714119796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 256
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8ff6e670e8cc5d0800000000000000
+      internalID: -3040899485813180209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_42
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 259
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900f3e9beb089400800000000000000
+      internalID: 331027679211880605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_43
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 255
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c4ceadaa2e2cb40800000000000000
+      internalID: 5459174921771699237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_44
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 258
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7871a7326e0c8a40800000000000000
+      internalID: 5371684270549071995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_45
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 261
+        width: 149
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a41285ee4747ca0800000000000000
+      internalID: -6020058234857895296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4021380ce38b0d540800000000000000
+      internalID: 5030723363430142468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782bc0435265e8200800000000000000
+      internalID: 184179352555795079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 127
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5048187502195f6f0800000000000000
+      internalID: -651455002992081915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_49
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 7
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a2175d0acb9ab0800000000000000
+      internalID: -5000180802620578769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_50
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 7
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb577690ed8c95510800000000000000
+      internalID: 1538481603689805244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_51
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310183acf26b09540800000000000000
+      internalID: 5012706701635751955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_52
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3
+        width: 139
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e99d4d31775ab80800000000000000
+      internalID: -8384164204221194668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_53
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190d252f05a5ab340800000000000000
+      internalID: 4880312449918750865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wispia_54
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 0
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f8c73024c00e9f0800000000000000
+      internalID: -441339285816439001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wispia_0: -2225647562592936590
+      Wispia_1: -6341468688522417004
+      Wispia_10: 4038295437097871666
+      Wispia_11: -8119033891731108470
+      Wispia_12: -3363961823080233881
+      Wispia_13: -6492691448323793921
+      Wispia_14: -7001759528089772371
+      Wispia_15: -8313664602147274325
+      Wispia_16: -34171752221965572
+      Wispia_17: 411678641480572635
+      Wispia_18: -7958726295460400395
+      Wispia_19: 8549035751780435343
+      Wispia_2: -4659011315328017201
+      Wispia_20: -4335027984204171590
+      Wispia_21: 5688038776722000762
+      Wispia_22: -157520196484285020
+      Wispia_23: -6787624620893280085
+      Wispia_24: 254954264762825073
+      Wispia_25: -129498278714334685
+      Wispia_26: 9002942739755213976
+      Wispia_27: 5673619554485238209
+      Wispia_28: 4295621000250251266
+      Wispia_29: 3793583366312197672
+      Wispia_3: 9218380749195463488
+      Wispia_30: -770620709168922158
+      Wispia_31: 4363916955084997152
+      Wispia_32: 7000788331600798017
+      Wispia_33: -6026204782451796704
+      Wispia_34: 870932081769482567
+      Wispia_35: -5137236852810937910
+      Wispia_36: -5732527408875732451
+      Wispia_37: -606687166753553917
+      Wispia_38: -3538255982937536693
+      Wispia_39: 2104396135883075214
+      Wispia_4: -5650114249126879370
+      Wispia_40: -5013771655714119796
+      Wispia_41: -3040899485813180209
+      Wispia_42: 331027679211880605
+      Wispia_43: 5459174921771699237
+      Wispia_44: 5371684270549071995
+      Wispia_45: -6020058234857895296
+      Wispia_46: 5030723363430142468
+      Wispia_47: 184179352555795079
+      Wispia_48: -651455002992081915
+      Wispia_49: -5000180802620578769
+      Wispia_5: -5181824385005738000
+      Wispia_50: 1538481603689805244
+      Wispia_51: 5012706701635751955
+      Wispia_52: -8384164204221194668
+      Wispia_53: 4880312449918750865
+      Wispia_54: -441339285816439001
+      Wispia_6: 717893256424626257
+      Wispia_7: 8627025869209439947
+      Wispia_8: -8108808568531961497
+      Wispia_9: -2007433601588265322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

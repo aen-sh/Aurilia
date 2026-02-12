@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: c5635cb26e1793f47afb37fc51046e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4663356906026192130
+    second: Ritz_0
+  - first:
+      213: 3278693030360679521
+    second: Ritz_1
+  - first:
+      213: -8227578836736012935
+    second: Ritz_2
+  - first:
+      213: 2363887520447619058
+    second: Ritz_3
+  - first:
+      213: 4331419898932829803
+    second: Ritz_4
+  - first:
+      213: 5940940532070266618
+    second: Ritz_5
+  - first:
+      213: 2337692338754620260
+    second: Ritz_6
+  - first:
+      213: 2643222588776984168
+    second: Ritz_7
+  - first:
+      213: 7584210659108520436
+    second: Ritz_8
+  - first:
+      213: 1895043375981534433
+    second: Ritz_9
+  - first:
+      213: 3865952471722575870
+    second: Ritz_10
+  - first:
+      213: 3632154860316226226
+    second: Ritz_11
+  - first:
+      213: -1477356897240302437
+    second: Ritz_12
+  - first:
+      213: -3105257546324351009
+    second: Ritz_13
+  - first:
+      213: -6950770746929928082
+    second: Ritz_14
+  - first:
+      213: 1678861214112023513
+    second: Ritz_15
+  - first:
+      213: -617914135525648300
+    second: Ritz_16
+  - first:
+      213: -8923424584467895407
+    second: Ritz_17
+  - first:
+      213: 1256069860957223690
+    second: Ritz_18
+  - first:
+      213: -3401516807332479295
+    second: Ritz_19
+  - first:
+      213: 4179487095812245211
+    second: Ritz_20
+  - first:
+      213: 2877764964078271796
+    second: Ritz_21
+  - first:
+      213: -4865536852654082886
+    second: Ritz_22
+  - first:
+      213: 1543864433195610415
+    second: Ritz_23
+  - first:
+      213: 8297396699486474207
+    second: Ritz_24
+  - first:
+      213: 3431468072773316859
+    second: Ritz_25
+  - first:
+      213: -5686232838008960250
+    second: Ritz_26
+  - first:
+      213: 4214877119396505556
+    second: Ritz_27
+  - first:
+      213: 1395366987514224883
+    second: Ritz_28
+  - first:
+      213: -5900512393331113858
+    second: Ritz_29
+  - first:
+      213: -6898304961671711908
+    second: Ritz_30
+  - first:
+      213: -3388201863311740551
+    second: Ritz_31
+  - first:
+      213: -616932332096365504
+    second: Ritz_32
+  - first:
+      213: -4311725751125304669
+    second: Ritz_33
+  - first:
+      213: 3318877467045036324
+    second: Ritz_34
+  - first:
+      213: 6733500411298163097
+    second: Ritz_35
+  - first:
+      213: -5599877042186681810
+    second: Ritz_36
+  - first:
+      213: 8325395033952277308
+    second: Ritz_37
+  - first:
+      213: 3758565886417949890
+    second: Ritz_38
+  - first:
+      213: -5623576446890697980
+    second: Ritz_39
+  - first:
+      213: -5887099248255783552
+    second: Ritz_40
+  - first:
+      213: -9140918040304624683
+    second: Ritz_41
+  - first:
+      213: -3327770804877278782
+    second: Ritz_42
+  - first:
+      213: 8725604002596751830
+    second: Ritz_43
+  - first:
+      213: 2472686756630073592
+    second: Ritz_44
+  - first:
+      213: -1303180069340690633
+    second: Ritz_45
+  - first:
+      213: 22401571973205441
+    second: Ritz_46
+  - first:
+      213: 1370574033206391672
+    second: Ritz_47
+  - first:
+      213: -8213231545622925694
+    second: Ritz_48
+  - first:
+      213: -9067139965886457099
+    second: Ritz_49
+  - first:
+      213: 3118036241823009943
+    second: Ritz_50
+  - first:
+      213: -7412011123271688606
+    second: Ritz_51
+  - first:
+      213: 8760757081955495585
+    second: Ritz_52
+  - first:
+      213: 2810702506874600708
+    second: Ritz_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ritz_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 639
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4e84066297b040800000000000000
+      internalID: 4663356906026192130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 639
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164823a90f1408d20800000000000000
+      internalID: 3278693030360679521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 639
+        width: 123
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d04dab3a4c1dd80800000000000000
+      internalID: -8227578836736012935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 639
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5249ec273ec020800000000000000
+      internalID: 2363887520447619058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 639
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e13f0037b4c1c30800000000000000
+      internalID: 4331419898932829803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 639
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6b4cdffe5727250800000000000000
+      internalID: 5940940532070266618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 639
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0f95ebc6217020800000000000000
+      internalID: 2337692338754620260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_7
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 639
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e275aa0fc9ea420800000000000000
+      internalID: 2643222588776984168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 639
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f105ed5967804960800000000000000
+      internalID: 7584210659108520436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 511
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec165bf8eb8c4a10800000000000000
+      internalID: 1895043375981534433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 511
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef741935a4f96a530800000000000000
+      internalID: 3865952471722575870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 511
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b27b5af991086230800000000000000
+      internalID: 3632154860316226226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 511
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb485babf5f7be0800000000000000
+      internalID: -1477356897240302437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_13
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 511
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76c37c6b8e7e4d0800000000000000
+      internalID: -3105257546324351009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 511
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a01a15d6e98f90800000000000000
+      internalID: -6950770746929928082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 511
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3045611638c4710800000000000000
+      internalID: 1678861214112023513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 511
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581d4a1e5abc67f0800000000000000
+      internalID: -617914135525648300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 511
+        width: 123
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19badc66e90a92480800000000000000
+      internalID: -8923424584467895407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 383
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bfd6332e47e6110800000000000000
+      internalID: 1256069860957223690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3d695c726bc0d0800000000000000
+      internalID: -3401516807332479295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c739ae55800a30800000000000000
+      internalID: 4179487095812245211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 383
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d33fedcffdfe720800000000000000
+      internalID: 2877764964078271796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 383
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43bffd2042a7cb0800000000000000
+      internalID: -4865536852654082886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 383
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21fbf1b588ec6510800000000000000
+      internalID: 1543864433195610415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 383
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc3613656462370800000000000000
+      internalID: 8297396699486474207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 383
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07fbf08060f9f20800000000000000
+      internalID: 3431468072773316859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_26
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 383
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b805c5c517611b0800000000000000
+      internalID: -5686232838008960250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ec81a8604e7a30800000000000000
+      internalID: 4214877119396505556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a716d1e65d5310800000000000000
+      internalID: 1395366987514224883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 255
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7085b29d3b2d1ea0800000000000000
+      internalID: -5900512393331113858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 255
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533e37af2c4440a0800000000000000
+      internalID: -6898304961671711908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 255
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971bcf55b50baf0d0800000000000000
+      internalID: -3388201863311740551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_32
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 255
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c51f600573077f0800000000000000
+      internalID: -616932332096365504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_33
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 255
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa954b164ca924c0800000000000000
+      internalID: -4311725751125304669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_34
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 255
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421844cd8750f0e20800000000000000
+      internalID: 3318877467045036324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 255
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999af5ec2f2327d50800000000000000
+      internalID: 6733500411298163097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220992ef7d3942b0800000000000000
+      internalID: -5599877042186681810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 127
+        width: 125
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33d68d6caeb98370800000000000000
+      internalID: 8325395033952277308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 124
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4d7dc82cb192430800000000000000
+      internalID: 3758565886417949890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_39
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 127
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b93db340b05f1b0800000000000000
+      internalID: -5623576446890697980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_40
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 127
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dae36cc62dc4ea0800000000000000
+      internalID: -5887099248255783552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_41
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 127
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdea6197fe42180800000000000000
+      internalID: -9140918040304624683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 127
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1cf51951261d1d0800000000000000
+      internalID: -3327770804877278782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_43
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 127
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d981813c92971970800000000000000
+      internalID: 8725604002596751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_44
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 127
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f09fb9118fb05220800000000000000
+      internalID: 2472686756630073592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374498a1ac2aede0800000000000000
+      internalID: -1303180069340690633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8fdb6c169f4000800000000000000
+      internalID: 22401571973205441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87334a352d1450310800000000000000
+      internalID: 1370574033206391672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 124
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eec11cc6db40e80800000000000000
+      internalID: -8213231545622925694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1794ad3c0b2280800000000000000
+      internalID: -9067139965886457099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_50
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c87ae117d754b20800000000000000
+      internalID: 3118036241823009943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_51
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9526672f332990800000000000000
+      internalID: -7412011123271688606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_52
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aee1794626749970800000000000000
+      internalID: 8760757081955495585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ritz_53
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7f8bc90f910720800000000000000
+      internalID: 2810702506874600708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ritz_0: 4663356906026192130
+      Ritz_1: 3278693030360679521
+      Ritz_10: 3865952471722575870
+      Ritz_11: 3632154860316226226
+      Ritz_12: -1477356897240302437
+      Ritz_13: -3105257546324351009
+      Ritz_14: -6950770746929928082
+      Ritz_15: 1678861214112023513
+      Ritz_16: -617914135525648300
+      Ritz_17: -8923424584467895407
+      Ritz_18: 1256069860957223690
+      Ritz_19: -3401516807332479295
+      Ritz_2: -8227578836736012935
+      Ritz_20: 4179487095812245211
+      Ritz_21: 2877764964078271796
+      Ritz_22: -4865536852654082886
+      Ritz_23: 1543864433195610415
+      Ritz_24: 8297396699486474207
+      Ritz_25: 3431468072773316859
+      Ritz_26: -5686232838008960250
+      Ritz_27: 4214877119396505556
+      Ritz_28: 1395366987514224883
+      Ritz_29: -5900512393331113858
+      Ritz_3: 2363887520447619058
+      Ritz_30: -6898304961671711908
+      Ritz_31: -3388201863311740551
+      Ritz_32: -616932332096365504
+      Ritz_33: -4311725751125304669
+      Ritz_34: 3318877467045036324
+      Ritz_35: 6733500411298163097
+      Ritz_36: -5599877042186681810
+      Ritz_37: 8325395033952277308
+      Ritz_38: 3758565886417949890
+      Ritz_39: -5623576446890697980
+      Ritz_4: 4331419898932829803
+      Ritz_40: -5887099248255783552
+      Ritz_41: -9140918040304624683
+      Ritz_42: -3327770804877278782
+      Ritz_43: 8725604002596751830
+      Ritz_44: 2472686756630073592
+      Ritz_45: -1303180069340690633
+      Ritz_46: 22401571973205441
+      Ritz_47: 1370574033206391672
+      Ritz_48: -8213231545622925694
+      Ritz_49: -9067139965886457099
+      Ritz_5: 5940940532070266618
+      Ritz_50: 3118036241823009943
+      Ritz_51: -7412011123271688606
+      Ritz_52: 8760757081955495585
+      Ritz_53: 2810702506874600708
+      Ritz_6: 2337692338754620260
+      Ritz_7: 2643222588776984168
+      Ritz_8: 7584210659108520436
+      Ritz_9: 1895043375981534433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

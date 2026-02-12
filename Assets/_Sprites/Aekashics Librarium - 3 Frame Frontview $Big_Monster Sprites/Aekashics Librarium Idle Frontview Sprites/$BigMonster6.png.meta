@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 28fab6f3beb2181419667ef819f091c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2615931208676039624
+    second: $BigMonster6_0
+  - first:
+      213: -489181737323170975
+    second: $BigMonster6_1
+  - first:
+      213: -1553200220026107397
+    second: $BigMonster6_2
+  - first:
+      213: 8644709484603789000
+    second: $BigMonster6_3
+  - first:
+      213: 4063940810300931472
+    second: $BigMonster6_4
+  - first:
+      213: 2476389560770065217
+    second: $BigMonster6_5
+  - first:
+      213: -1350117884674474870
+    second: $BigMonster6_6
+  - first:
+      213: -6802584000425253457
+    second: $BigMonster6_7
+  - first:
+      213: -448803849540572904
+    second: $BigMonster6_8
+  - first:
+      213: -6347690623035955701
+    second: $BigMonster6_9
+  - first:
+      213: 2563509987191933161
+    second: $BigMonster6_10
+  - first:
+      213: 7508298151655742194
+    second: $BigMonster6_11
+  - first:
+      213: 3287256341282924056
+    second: $BigMonster6_12
+  - first:
+      213: 222247770839870739
+    second: $BigMonster6_13
+  - first:
+      213: 3515758554307878312
+    second: $BigMonster6_14
+  - first:
+      213: -5928670489229316622
+    second: $BigMonster6_15
+  - first:
+      213: -4781495036851363934
+    second: $BigMonster6_16
+  - first:
+      213: 862142190632482576
+    second: $BigMonster6_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $BigMonster6_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5ef11397ad4420800000000000000
+      internalID: 2615931208676039624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 293
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1637e3c3dc31639f0800000000000000
+      internalID: -489181737323170975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 299
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9094c01ace17ae0800000000000000
+      internalID: -1553200220026107397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce4240897d28f770800000000000000
+      internalID: 8644709484603789000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 287
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d3332a2a4066830800000000000000
+      internalID: 4063940810300931472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437f2f5f27ed5220800000000000000
+      internalID: 2476389560770065217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7317efea634de0800000000000000
+      internalID: -1350117884674474870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a5eba4ed5891a0800000000000000
+      internalID: -6802584000425253457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8196e46d64785c9f0800000000000000
+      internalID: -448803849540572904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b062dd5820978e7a0800000000000000
+      internalID: -6347690623035955701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8cdb450ca639320800000000000000
+      internalID: 2563509987191933161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 114
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa99256365d23860800000000000000
+      internalID: 7508298151655742194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816a1dbc93eae9d20800000000000000
+      internalID: 3287256341282924056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d68098b25951300800000000000000
+      internalID: 222247770839870739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8addf8127cb7ac030800000000000000
+      internalID: 3515758554307878312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd252bf99129bda0800000000000000
+      internalID: -5928670489229316622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5e21f897b4adb0800000000000000
+      internalID: -4781495036851363934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $BigMonster6_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b68a21c1f6fb00800000000000000
+      internalID: 862142190632482576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $BigMonster6_0: 2615931208676039624
+      $BigMonster6_1: -489181737323170975
+      $BigMonster6_10: 2563509987191933161
+      $BigMonster6_11: 7508298151655742194
+      $BigMonster6_12: 3287256341282924056
+      $BigMonster6_13: 222247770839870739
+      $BigMonster6_14: 3515758554307878312
+      $BigMonster6_15: -5928670489229316622
+      $BigMonster6_16: -4781495036851363934
+      $BigMonster6_17: 862142190632482576
+      $BigMonster6_2: -1553200220026107397
+      $BigMonster6_3: 8644709484603789000
+      $BigMonster6_4: 4063940810300931472
+      $BigMonster6_5: 2476389560770065217
+      $BigMonster6_6: -1350117884674474870
+      $BigMonster6_7: -6802584000425253457
+      $BigMonster6_8: -448803849540572904
+      $BigMonster6_9: -6347690623035955701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

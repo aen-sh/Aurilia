@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: acdca8ad0e79f9549830ad72dac6f646
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 27375401013318466
+    second: $Big_Monster17_0
+  - first:
+      213: 1984018546022756253
+    second: $Big_Monster17_1
+  - first:
+      213: -1709072380851972070
+    second: $Big_Monster17_2
+  - first:
+      213: 7713285886578873059
+    second: $Big_Monster17_3
+  - first:
+      213: 1175603412196594314
+    second: $Big_Monster17_4
+  - first:
+      213: -6997886864425776078
+    second: $Big_Monster17_5
+  - first:
+      213: 5728795929461271284
+    second: $Big_Monster17_6
+  - first:
+      213: -962776696835573654
+    second: $Big_Monster17_7
+  - first:
+      213: -3294138862063520169
+    second: $Big_Monster17_8
+  - first:
+      213: 3688466550235053811
+    second: $Big_Monster17_9
+  - first:
+      213: -4640676708433072776
+    second: $Big_Monster17_10
+  - first:
+      213: -270682924642791222
+    second: $Big_Monster17_11
+  - first:
+      213: 7255544581208168788
+    second: $Big_Monster17_12
+  - first:
+      213: 3514430458613901919
+    second: $Big_Monster17_13
+  - first:
+      213: 5498857889388256328
+    second: $Big_Monster17_14
+  - first:
+      213: -7482982768559513834
+    second: $Big_Monster17_15
+  - first:
+      213: -2076961665730450748
+    second: $Big_Monster17_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $Big_Monster17_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 287
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2439bfc38c1416000800000000000000
+      internalID: 27375401013318466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 287
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f29771b56a88b10800000000000000
+      internalID: 1984018546022756253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1813e389b72848e0800000000000000
+      internalID: -1709072380851972070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 206
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e25198a5a81b0b60800000000000000
+      internalID: 7713285886578873059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8217b42315905010800000000000000
+      internalID: 1175603412196594314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 204
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c878329f282ee90800000000000000
+      internalID: -6997886864425776078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa2e3e9b85c08f40800000000000000
+      internalID: 5728795929461271284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68771bf1b783a2f0800000000000000
+      internalID: -962776696835573654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f4e5782ed842d0800000000000000
+      internalID: -3294138862063520169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 115
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3febbacf8c0103330800000000000000
+      internalID: 3688466550235053811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 115
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dea6cfe11099fb0800000000000000
+      internalID: -4640676708433072776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 111
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac017ed60575e3cf0800000000000000
+      internalID: -270682924642791222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 132
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595ce6ea5fd0b460800000000000000
+      internalID: 7255544581208168788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 115
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aae71c1e3c5c030800000000000000
+      internalID: 3514430458613901919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c575fbd1edf4c40800000000000000
+      internalID: 5498857889388256328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f14ab81da172890800000000000000
+      internalID: -7482982768559513834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_Monster17_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca68068e562d23e0800000000000000
+      internalID: -2076961665730450748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $Big_Monster17_0: 27375401013318466
+      $Big_Monster17_1: 1984018546022756253
+      $Big_Monster17_10: -4640676708433072776
+      $Big_Monster17_11: -270682924642791222
+      $Big_Monster17_12: 7255544581208168788
+      $Big_Monster17_13: 3514430458613901919
+      $Big_Monster17_14: 5498857889388256328
+      $Big_Monster17_15: -7482982768559513834
+      $Big_Monster17_16: -2076961665730450748
+      $Big_Monster17_2: -1709072380851972070
+      $Big_Monster17_3: 7713285886578873059
+      $Big_Monster17_4: 1175603412196594314
+      $Big_Monster17_5: -6997886864425776078
+      $Big_Monster17_6: 5728795929461271284
+      $Big_Monster17_7: -962776696835573654
+      $Big_Monster17_8: -3294138862063520169
+      $Big_Monster17_9: 3688466550235053811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

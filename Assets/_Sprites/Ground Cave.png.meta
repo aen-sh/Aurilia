@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 029f54f51ed308d49af7c3d0b53ecb0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6306070852534277164
+    second: Ground Cave_0
+  - first:
+      213: 510340820039294566
+    second: Ground Cave_1
+  - first:
+      213: 4956146260691769089
+    second: Ground Cave_2
+  - first:
+      213: 6843520295796535913
+    second: Ground Cave_3
+  - first:
+      213: -2772199362660320867
+    second: Ground Cave_4
+  - first:
+      213: -3182012798251564783
+    second: Ground Cave_5
+  - first:
+      213: 5235461126853287811
+    second: Ground Cave_6
+  - first:
+      213: 3031420104250284115
+    second: Ground Cave_7
+  - first:
+      213: -7770518071718273375
+    second: Ground Cave_8
+  - first:
+      213: -3464823069649511285
+    second: Ground Cave_9
+  - first:
+      213: 8954053304856842903
+    second: Ground Cave_10
+  - first:
+      213: -7228135752874884826
+    second: Ground Cave_11
+  - first:
+      213: -5315389911005999030
+    second: Ground Cave_12
+  - first:
+      213: -281217607518700799
+    second: Ground Cave_13
+  - first:
+      213: -2817333659060716182
+    second: Ground Cave_14
+  - first:
+      213: -6789950436237184922
+    second: Ground Cave_15
+  - first:
+      213: -5361202931549514480
+    second: Ground Cave_16
+  - first:
+      213: -8962521008943379183
+    second: Ground Cave_17
+  - first:
+      213: 6321932291540440682
+    second: Ground Cave_18
+  - first:
+      213: 9063000411704217264
+    second: Ground Cave_19
+  - first:
+      213: -5142523418640798709
+    second: Ground Cave_20
+  - first:
+      213: 5306293501736791264
+    second: Ground Cave_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground Cave_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 205
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbef3a78f55c78a0800000000000000
+      internalID: -6306070852534277164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 175
+        width: 239
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ed2dc9548151700800000000000000
+      internalID: 510340820039294566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 176
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d96be3c4c7c440800000000000000
+      internalID: 4956146260691769089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 173
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f024537119fe50800000000000000
+      internalID: 6843520295796535913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 106
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99311e0e5b2789d0800000000000000
+      internalID: -2772199362660320867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_5
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 180
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110871183837d3d0800000000000000
+      internalID: -3182012798251564783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 184
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd47df72818a840800000000000000
+      internalID: 5235461126853287811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 215
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d0de0684c11a20800000000000000
+      internalID: 3031420104250284115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 89
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9a76dbf2992490800000000000000
+      internalID: -7770518071718273375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 91
+        width: 231
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c56fb86c97aefc0800000000000000
+      internalID: -3464823069649511285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 91
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79297e74a00334c70800000000000000
+      internalID: 8954053304856842903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 109
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621879d34d080bb90800000000000000
+      internalID: -7228135752874884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_12
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 109
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40dacfb901fb36b0800000000000000
+      internalID: -5315389911005999030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b334f631ae81cf0800000000000000
+      internalID: -281217607518700799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3fe5c6f1d6e8d0800000000000000
+      internalID: -2817333659060716182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f29d8d0045c1a0800000000000000
+      internalID: -6789950436237184922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 12
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0155530b65e2995b0800000000000000
+      internalID: -5361202931549514480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 12
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d44f9b0aabe9380800000000000000
+      internalID: -8962521008943379183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_18
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 12
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66d6539ce30cb750800000000000000
+      internalID: 6321932291540440682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_19
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 11
+        width: 119
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be49da4bde36cd70800000000000000
+      internalID: 9063000411704217264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 11
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca9ce623612a8b0800000000000000
+      internalID: -5142523418640798709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Cave_21
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 11
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec2cfc63ddb3a940800000000000000
+      internalID: 5306293501736791264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ground Cave_0: -6306070852534277164
+      Ground Cave_1: 510340820039294566
+      Ground Cave_10: 8954053304856842903
+      Ground Cave_11: -7228135752874884826
+      Ground Cave_12: -5315389911005999030
+      Ground Cave_13: -281217607518700799
+      Ground Cave_14: -2817333659060716182
+      Ground Cave_15: -6789950436237184922
+      Ground Cave_16: -5361202931549514480
+      Ground Cave_17: -8962521008943379183
+      Ground Cave_18: 6321932291540440682
+      Ground Cave_19: 9063000411704217264
+      Ground Cave_2: 4956146260691769089
+      Ground Cave_20: -5142523418640798709
+      Ground Cave_21: 5306293501736791264
+      Ground Cave_3: 6843520295796535913
+      Ground Cave_4: -2772199362660320867
+      Ground Cave_5: -3182012798251564783
+      Ground Cave_6: 5235461126853287811
+      Ground Cave_7: 3031420104250284115
+      Ground Cave_8: -7770518071718273375
+      Ground Cave_9: -3464823069649511285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

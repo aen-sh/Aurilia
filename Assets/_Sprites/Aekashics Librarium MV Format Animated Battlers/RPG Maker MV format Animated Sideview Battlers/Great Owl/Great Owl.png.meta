@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: b19e4aa0e3e5c4e4381a02df6a7e0b36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6248616121818220643
+    second: Great Owl_0
+  - first:
+      213: -5350146939511709367
+    second: Great Owl_1
+  - first:
+      213: -8551385165337245509
+    second: Great Owl_2
+  - first:
+      213: -4315332570409080807
+    second: Great Owl_3
+  - first:
+      213: 7311154118573324977
+    second: Great Owl_4
+  - first:
+      213: -2737441305438872584
+    second: Great Owl_5
+  - first:
+      213: -6841264045425216194
+    second: Great Owl_6
+  - first:
+      213: -1115292007137742303
+    second: Great Owl_7
+  - first:
+      213: -7083155540988912806
+    second: Great Owl_8
+  - first:
+      213: -8309785472123368443
+    second: Great Owl_9
+  - first:
+      213: -629491197266794782
+    second: Great Owl_10
+  - first:
+      213: 6166335271020066693
+    second: Great Owl_11
+  - first:
+      213: -3537002744395336536
+    second: Great Owl_12
+  - first:
+      213: -1154809091852452817
+    second: Great Owl_13
+  - first:
+      213: 7723729005929814509
+    second: Great Owl_14
+  - first:
+      213: 680290316185748053
+    second: Great Owl_15
+  - first:
+      213: 4428675204671217649
+    second: Great Owl_16
+  - first:
+      213: 1936036342740666759
+    second: Great Owl_17
+  - first:
+      213: -3755437679625959610
+    second: Great Owl_18
+  - first:
+      213: -6945039928891671439
+    second: Great Owl_19
+  - first:
+      213: -2257007263208683815
+    second: Great Owl_20
+  - first:
+      213: -1475691875024392160
+    second: Great Owl_21
+  - first:
+      213: 2745338450163100238
+    second: Great Owl_22
+  - first:
+      213: -8335539914532731493
+    second: Great Owl_23
+  - first:
+      213: -1834117474050334701
+    second: Great Owl_24
+  - first:
+      213: -5133813013787846007
+    second: Great Owl_25
+  - first:
+      213: -5194821329977965621
+    second: Great Owl_26
+  - first:
+      213: -9010409973053271644
+    second: Great Owl_27
+  - first:
+      213: -8618821908719056015
+    second: Great Owl_28
+  - first:
+      213: 5196221990331816089
+    second: Great Owl_29
+  - first:
+      213: 7409000091492395204
+    second: Great Owl_30
+  - first:
+      213: -2215766884427830263
+    second: Great Owl_31
+  - first:
+      213: 8254895292376326637
+    second: Great Owl_32
+  - first:
+      213: -8644238383768066043
+    second: Great Owl_33
+  - first:
+      213: -5867744314835458925
+    second: Great Owl_34
+  - first:
+      213: -547504143853136089
+    second: Great Owl_35
+  - first:
+      213: 4789003676167725445
+    second: Great Owl_36
+  - first:
+      213: -9019085679613686588
+    second: Great Owl_37
+  - first:
+      213: -733784905464992069
+    second: Great Owl_38
+  - first:
+      213: -5342567720060830085
+    second: Great Owl_39
+  - first:
+      213: -7346846268164467669
+    second: Great Owl_40
+  - first:
+      213: 5205727237965514260
+    second: Great Owl_41
+  - first:
+      213: 5981592798124149681
+    second: Great Owl_42
+  - first:
+      213: 3710295372535152327
+    second: Great Owl_43
+  - first:
+      213: -2109545020175628606
+    second: Great Owl_44
+  - first:
+      213: 1118093564345419333
+    second: Great Owl_45
+  - first:
+      213: 7858239644764635777
+    second: Great Owl_46
+  - first:
+      213: 3910841057634732257
+    second: Great Owl_47
+  - first:
+      213: -4328905600361975254
+    second: Great Owl_48
+  - first:
+      213: -3398426645909872296
+    second: Great Owl_49
+  - first:
+      213: -7626591330180000023
+    second: Great Owl_50
+  - first:
+      213: -7660694088389395082
+    second: Great Owl_51
+  - first:
+      213: -8619512486652761423
+    second: Great Owl_52
+  - first:
+      213: 6608221582673206770
+    second: Great Owl_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Great Owl_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2559
+        width: 475
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97fe396eb47849a0800000000000000
+      internalID: -6248616121818220643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2559
+        width: 479
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e24e64b570c5b0800000000000000
+      internalID: -5350146939511709367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2559
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb84782df70635980800000000000000
+      internalID: -8551385165337245509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_3
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2559
+        width: 324
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918e71d04ebdc14c0800000000000000
+      internalID: -4315332570409080807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2559
+        width: 309
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba72b74fef667560800000000000000
+      internalID: 7311154118573324977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_5
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2559
+        width: 310
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb95d3e2a7a20ad0800000000000000
+      internalID: -2737441305438872584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_6
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 2559
+        width: 420
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3537c5e892fe01a0800000000000000
+      internalID: -6841264045425216194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_7
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 2559
+        width: 420
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122f8bd14dfa580f0800000000000000
+      internalID: -1115292007137742303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_8
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 2559
+        width: 420
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b148a409393bd90800000000000000
+      internalID: -7083155540988912806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2047
+        width: 475
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c8266e326bdac80800000000000000
+      internalID: -8309785472123368443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2047
+        width: 479
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e66dad57199347f0800000000000000
+      internalID: -629491197266794782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2047
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fc132249339550800000000000000
+      internalID: 6166335271020066693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_12
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2047
+        width: 283
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4fbba6eba0aeec0800000000000000
+      internalID: -3537002744395336536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_13
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2047
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c3eb8df3b49ffe0800000000000000
+      internalID: -1154809091852452817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_14
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2047
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d3dbdb92303b60800000000000000
+      internalID: 7723729005929814509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_15
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2047
+        width: 475
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552c3603070e07900800000000000000
+      internalID: 680290316185748053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_16
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 2047
+        width: 479
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff120072a0d57d30800000000000000
+      internalID: 4428675204671217649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_17
+      rect:
+        serializedVersion: 2
+        x: 4109
+        y: 2047
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789cd41dbce2eda10800000000000000
+      internalID: 1936036342740666759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1534
+        width: 475
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64707c9d35102ebc0800000000000000
+      internalID: -3755437679625959610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1534
+        width: 479
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf1872bf24e9f90800000000000000
+      internalID: -6945039928891671439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1534
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d648fc2adf7da0e0800000000000000
+      internalID: -2257007263208683815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_21
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1535
+        width: 283
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020bd37ee0a458be0800000000000000
+      internalID: -1475691875024392160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_22
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1535
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a613666c6691620800000000000000
+      internalID: 2745338450163100238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_23
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1535
+        width: 282
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95cf2f7c96325c80800000000000000
+      internalID: -8335539914532731493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_24
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1535
+        width: 477
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a4eaffd7eb86e0800000000000000
+      internalID: -1834117474050334701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_25
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1535
+        width: 479
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad5e9934801c8b0800000000000000
+      internalID: -5133813013787846007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_26
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 1535
+        width: 482
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38a03168948e7b0800000000000000
+      internalID: -5194821329977965621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1015
+        width: 475
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d5836ed794f280800000000000000
+      internalID: -9010409973053271644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1015
+        width: 479
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4274732bc36880800000000000000
+      internalID: -8618821908719056015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_29
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1022
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981dc39e50bc1840800000000000000
+      internalID: 5196221990331816089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_30
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1025
+        width: 468
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ad32245e02d660800000000000000
+      internalID: 7409000091492395204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_31
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1030
+        width: 456
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cea9c12c30041e0800000000000000
+      internalID: -2215766884427830263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_32
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1023
+        width: 506
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1a22838874f8270800000000000000
+      internalID: 8254895292376326637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_33
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1023
+        width: 477
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50825b53dfe790880800000000000000
+      internalID: -8644238383768066043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_34
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1023
+        width: 479
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3942a6162a5919ea0800000000000000
+      internalID: -5867744314835458925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_35
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 1023
+        width: 482
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7275498c1efd668f0800000000000000
+      internalID: -547504143853136089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 511
+        width: 421
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58164026875f57240800000000000000
+      internalID: 4789003676167725445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 511
+        width: 421
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc40db0c55c5d280800000000000000
+      internalID: -9019085679613686588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_38
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 518
+        width: 421
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe2738248211d5f0800000000000000
+      internalID: -733784905464992069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_39
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 513
+        width: 468
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3e49f6f26bd5b0800000000000000
+      internalID: -5342567720060830085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_40
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 518
+        width: 456
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2417ae8e32ca0a90800000000000000
+      internalID: -7346846268164467669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_41
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 511
+        width: 506
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416828087557e3840800000000000000
+      internalID: 5205727237965514260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_42
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 511
+        width: 477
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb893345f2e20350800000000000000
+      internalID: 5981592798124149681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_43
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 511
+        width: 479
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cebbbbbbfd9d7330800000000000000
+      internalID: 3710295372535152327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_44
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 511
+        width: 482
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6ccb22bf369b2e0800000000000000
+      internalID: -2109545020175628606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 420
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54685704c24448f00800000000000000
+      internalID: 1118093564345419333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 420
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182861a72531e0d60800000000000000
+      internalID: 7858239644764635777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_47
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 420
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c45da839164630800000000000000
+      internalID: 3910841057634732257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_48
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1
+        width: 468
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b930ca43ace3c0800000000000000
+      internalID: -4328905600361975254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_49
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 6
+        width: 456
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851e15f98fc56d0d0800000000000000
+      internalID: -3398426645909872296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_50
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 0
+        width: 506
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61c85b797e82690800000000000000
+      internalID: -7626591330180000023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_51
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 477
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d7d90905fbfa590800000000000000
+      internalID: -7660694088389395082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_52
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 0
+        width: 479
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa400cf07516880800000000000000
+      internalID: -8619512486652761423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Owl_53
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 0
+        width: 482
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd5e40848e15bb50800000000000000
+      internalID: 6608221582673206770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Great Owl_0: -6248616121818220643
+      Great Owl_1: -5350146939511709367
+      Great Owl_10: -629491197266794782
+      Great Owl_11: 6166335271020066693
+      Great Owl_12: -3537002744395336536
+      Great Owl_13: -1154809091852452817
+      Great Owl_14: 7723729005929814509
+      Great Owl_15: 680290316185748053
+      Great Owl_16: 4428675204671217649
+      Great Owl_17: 1936036342740666759
+      Great Owl_18: -3755437679625959610
+      Great Owl_19: -6945039928891671439
+      Great Owl_2: -8551385165337245509
+      Great Owl_20: -2257007263208683815
+      Great Owl_21: -1475691875024392160
+      Great Owl_22: 2745338450163100238
+      Great Owl_23: -8335539914532731493
+      Great Owl_24: -1834117474050334701
+      Great Owl_25: -5133813013787846007
+      Great Owl_26: -5194821329977965621
+      Great Owl_27: -9010409973053271644
+      Great Owl_28: -8618821908719056015
+      Great Owl_29: 5196221990331816089
+      Great Owl_3: -4315332570409080807
+      Great Owl_30: 7409000091492395204
+      Great Owl_31: -2215766884427830263
+      Great Owl_32: 8254895292376326637
+      Great Owl_33: -8644238383768066043
+      Great Owl_34: -5867744314835458925
+      Great Owl_35: -547504143853136089
+      Great Owl_36: 4789003676167725445
+      Great Owl_37: -9019085679613686588
+      Great Owl_38: -733784905464992069
+      Great Owl_39: -5342567720060830085
+      Great Owl_4: 7311154118573324977
+      Great Owl_40: -7346846268164467669
+      Great Owl_41: 5205727237965514260
+      Great Owl_42: 5981592798124149681
+      Great Owl_43: 3710295372535152327
+      Great Owl_44: -2109545020175628606
+      Great Owl_45: 1118093564345419333
+      Great Owl_46: 7858239644764635777
+      Great Owl_47: 3910841057634732257
+      Great Owl_48: -4328905600361975254
+      Great Owl_49: -3398426645909872296
+      Great Owl_5: -2737441305438872584
+      Great Owl_50: -7626591330180000023
+      Great Owl_51: -7660694088389395082
+      Great Owl_52: -8619512486652761423
+      Great Owl_53: 6608221582673206770
+      Great Owl_6: -6841264045425216194
+      Great Owl_7: -1115292007137742303
+      Great Owl_8: -7083155540988912806
+      Great Owl_9: -8309785472123368443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

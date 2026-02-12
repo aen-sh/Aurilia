@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 9301359e80eb2fd418036138467caf06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9000110529279786819
+    second: Leafen_0
+  - first:
+      213: -6745678682572505027
+    second: Leafen_1
+  - first:
+      213: 8848973045774602145
+    second: Leafen_2
+  - first:
+      213: -7682364503175028668
+    second: Leafen_3
+  - first:
+      213: -6149606460718412858
+    second: Leafen_4
+  - first:
+      213: 8966758990868294959
+    second: Leafen_5
+  - first:
+      213: -450196400200811928
+    second: Leafen_6
+  - first:
+      213: -2558912486540913686
+    second: Leafen_7
+  - first:
+      213: -7903360096413131475
+    second: Leafen_8
+  - first:
+      213: 7817204492964543172
+    second: Leafen_9
+  - first:
+      213: 8653985160342393330
+    second: Leafen_10
+  - first:
+      213: 4219735845455686405
+    second: Leafen_11
+  - first:
+      213: -3771631469403427739
+    second: Leafen_12
+  - first:
+      213: 546375050258643028
+    second: Leafen_13
+  - first:
+      213: -3700346053417783829
+    second: Leafen_14
+  - first:
+      213: -4586158604079123653
+    second: Leafen_15
+  - first:
+      213: 2309560360205700968
+    second: Leafen_16
+  - first:
+      213: -2635022475993281143
+    second: Leafen_17
+  - first:
+      213: -4989724833539081275
+    second: Leafen_18
+  - first:
+      213: -5101105220751562756
+    second: Leafen_19
+  - first:
+      213: -3722977240934904851
+    second: Leafen_20
+  - first:
+      213: 4176663355622644397
+    second: Leafen_21
+  - first:
+      213: -5180620391691584386
+    second: Leafen_22
+  - first:
+      213: -4585091462217358090
+    second: Leafen_23
+  - first:
+      213: 3302302700235246413
+    second: Leafen_24
+  - first:
+      213: -4775992425684404588
+    second: Leafen_25
+  - first:
+      213: 4744406096797669187
+    second: Leafen_26
+  - first:
+      213: -8174407004908295146
+    second: Leafen_27
+  - first:
+      213: 980584700425149756
+    second: Leafen_28
+  - first:
+      213: -1905826028547133091
+    second: Leafen_29
+  - first:
+      213: 6583348788137522683
+    second: Leafen_30
+  - first:
+      213: -2550361114913206793
+    second: Leafen_31
+  - first:
+      213: -3201986677009536944
+    second: Leafen_32
+  - first:
+      213: -168112846707820411
+    second: Leafen_33
+  - first:
+      213: 6620959782851111403
+    second: Leafen_34
+  - first:
+      213: 6416882235974305550
+    second: Leafen_35
+  - first:
+      213: 4884367306997336832
+    second: Leafen_36
+  - first:
+      213: -2942155951995409842
+    second: Leafen_37
+  - first:
+      213: 4447190994442257441
+    second: Leafen_38
+  - first:
+      213: 8906530651668892554
+    second: Leafen_39
+  - first:
+      213: 1412776389296793978
+    second: Leafen_40
+  - first:
+      213: 69055971923984396
+    second: Leafen_41
+  - first:
+      213: 1941128717924846452
+    second: Leafen_42
+  - first:
+      213: 7903578092738286316
+    second: Leafen_43
+  - first:
+      213: -2098466845609290352
+    second: Leafen_44
+  - first:
+      213: 4882729758284871929
+    second: Leafen_45
+  - first:
+      213: -3314646642024260499
+    second: Leafen_46
+  - first:
+      213: 2076069433028413385
+    second: Leafen_47
+  - first:
+      213: -2326153686920386519
+    second: Leafen_48
+  - first:
+      213: 3523241279043110505
+    second: Leafen_49
+  - first:
+      213: -1019635241303887561
+    second: Leafen_50
+  - first:
+      213: -4475334206384266390
+    second: Leafen_51
+  - first:
+      213: 214047166083423777
+    second: Leafen_52
+  - first:
+      213: -8201671895690292861
+    second: Leafen_53
+  - first:
+      213: -7531277753950862560
+    second: Leafen_54
+  - first:
+      213: -7516892539653762330
+    second: Leafen_55
+  - first:
+      213: -30279189442672617
+    second: Leafen_56
+  - first:
+      213: -248411195051635904
+    second: Leafen_57
+  - first:
+      213: -695519280502780355
+    second: Leafen_58
+  - first:
+      213: -4200348125780166246
+    second: Leafen_59
+  - first:
+      213: -289778164565468183
+    second: Leafen_60
+  - first:
+      213: 7267705047743276099
+    second: Leafen_61
+  - first:
+      213: -9102077043771102225
+    second: Leafen_62
+  - first:
+      213: 4243238788597808540
+    second: Leafen_63
+  - first:
+      213: 2625089952425228
+    second: Leafen_64
+  - first:
+      213: -3919034791524512859
+    second: Leafen_65
+  - first:
+      213: -383166203023999181
+    second: Leafen_66
+  - first:
+      213: -58011557190728783
+    second: Leafen_67
+  - first:
+      213: -9018563278498546944
+    second: Leafen_68
+  - first:
+      213: 4902825423564195480
+    second: Leafen_69
+  - first:
+      213: -974003535681292576
+    second: Leafen_70
+  - first:
+      213: 8982443304704138661
+    second: Leafen_71
+  - first:
+      213: 5234502418384009780
+    second: Leafen_72
+  - first:
+      213: 5448684709176662706
+    second: Leafen_73
+  - first:
+      213: 1337938272553766147
+    second: Leafen_74
+  - first:
+      213: 8709918319736971374
+    second: Leafen_75
+  - first:
+      213: 6412503600689365529
+    second: Leafen_76
+  - first:
+      213: 4877717757018955778
+    second: Leafen_77
+  - first:
+      213: -6916172310427720212
+    second: Leafen_78
+  - first:
+      213: 2147387673638048888
+    second: Leafen_79
+  - first:
+      213: 5711925686130443764
+    second: Leafen_80
+  - first:
+      213: -2828928904499678887
+    second: Leafen_81
+  - first:
+      213: -1589984892430233219
+    second: Leafen_82
+  - first:
+      213: 8824511490609558101
+    second: Leafen_83
+  - first:
+      213: 2517673118844240964
+    second: Leafen_84
+  - first:
+      213: -6283610988365252812
+    second: Leafen_85
+  - first:
+      213: 8982991510438745792
+    second: Leafen_86
+  - first:
+      213: -1695979977727925310
+    second: Leafen_87
+  - first:
+      213: 6111851915999342044
+    second: Leafen_88
+  - first:
+      213: -751612076513904204
+    second: Leafen_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leafen_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1316
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f79fc77d0d6ec70800000000000000
+      internalID: 9000110529279786819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1279
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3047547af88262a0800000000000000
+      internalID: -6745678682572505027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1309
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afc66ce91eddca70800000000000000
+      internalID: 8848973045774602145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1316
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ae21ff22c26590800000000000000
+      internalID: -7682364503175028668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1279
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8e68818538aaa0800000000000000
+      internalID: -6149606460718412858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1309
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dae355bc3507c70800000000000000
+      internalID: 8966758990868294959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1316
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86afede52c490c9f0800000000000000
+      internalID: -450196400200811928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1279
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3da64b6aaec7cd0800000000000000
+      internalID: -2558912486540913686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1308
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5c49bddf915290800000000000000
+      internalID: -7903360096413131475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1282
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca3dbba11a4c7c60800000000000000
+      internalID: 7817204492964543172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1279
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d5bd07a1291870800000000000000
+      internalID: 8653985160342393330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_11
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1280
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b6e52f4638f8a30800000000000000
+      internalID: 4219735845455686405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_12
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c268a592978abc0800000000000000
+      internalID: -3771631469403427739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_13
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587dc0a63d159700800000000000000
+      internalID: 546375050258643028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_14
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda304aedab5acc0800000000000000
+      internalID: -3700346053417783829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3333405c01ba50c0800000000000000
+      internalID: -4586158604079123653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f426939e43d0020800000000000000
+      internalID: 2309560360205700968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d004fd4058e6bd0800000000000000
+      internalID: -2635022475993281143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1026
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb35f953bfe0cab0800000000000000
+      internalID: -4989724833539081275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_19
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1023
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7663b14db3539b0800000000000000
+      internalID: -5101105220751562756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_20
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1024
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb063face3555cc0800000000000000
+      internalID: -3722977240934904851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_21
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1060
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa574a613d76f930800000000000000
+      internalID: 4176663355622644397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_22
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1023
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf31da33dba18b0800000000000000
+      internalID: -5180620391691584386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1053
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4abd3ab9b7e50c0800000000000000
+      internalID: -4585091462217358090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_24
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1060
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc55c3fc224dd20800000000000000
+      internalID: 3302302700235246413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_25
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1023
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496ff11713448bdb0800000000000000
+      internalID: -4775992425684404588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_26
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1053
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34792d5453487d140800000000000000
+      internalID: 4744406096797669187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_27
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1060
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce9fe832cae8e80800000000000000
+      internalID: -8174407004908295146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_28
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1023
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d1605f69cbb9d00800000000000000
+      internalID: 980584700425149756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_29
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1052
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5131c413552d85e0800000000000000
+      internalID: -1905826028547133091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57f6db7d0cc5b50800000000000000
+      internalID: 6583348788137522683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd01a0141c4b9cd0800000000000000
+      internalID: -2550361114913206793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058205505124093d0800000000000000
+      internalID: -3201986677009536944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_33
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 770
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588fcc1b14ebaadf0800000000000000
+      internalID: -168112846707820411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_34
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 767
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9ecf8d7df52eb50800000000000000
+      internalID: 6620959782851111403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_35
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 768
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0743c045685d0950800000000000000
+      internalID: 6416882235974305550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_36
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 802
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8b1eef22c8c340800000000000000
+      internalID: 4884367306997336832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_37
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 767
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a2387ffbc5b27d0800000000000000
+      internalID: -2942155951995409842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_38
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 798
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240c00b5a897bd30800000000000000
+      internalID: 4447190994442257441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_39
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 803
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b4ad9507a5a9b70800000000000000
+      internalID: 8906530651668892554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_40
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 767
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79281f04a03b9310800000000000000
+      internalID: 1412776389296793978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_41
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 798
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0006246a0655f000800000000000000
+      internalID: 69055971923984396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_42
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 803
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b483fc84640fa10800000000000000
+      internalID: 1941128717924846452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_43
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 767
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2993086662fad60800000000000000
+      internalID: 7903578092738286316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_44
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 797
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0951686a58fb0e2e0800000000000000
+      internalID: -2098466845609290352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87cc868d0f2c340800000000000000
+      internalID: 4882729758284871929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd33ad0720002d0800000000000000
+      internalID: -3314646642024260499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c784bc562eafcc10800000000000000
+      internalID: 2076069433028413385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9282526db87d7bfd0800000000000000
+      internalID: -2326153686920386519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_49
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9668b5fb64115e030800000000000000
+      internalID: 3523241279043110505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_50
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bc99762789d1f0800000000000000
+      internalID: -1019635241303887561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 546
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63af49204b64e1c0800000000000000
+      internalID: -4475334206384266390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_52
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 511
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed49373c278f200800000000000000
+      internalID: 214047166083423777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_53
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 542
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381531d7ddecd2e80800000000000000
+      internalID: -8201671895690292861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_54
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 547
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305f209c68b7790800000000000000
+      internalID: -7531277753950862560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_55
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 511
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e25727bf02aea790800000000000000
+      internalID: -7516892539653762330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_56
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 542
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ce25dc3d649ff0800000000000000
+      internalID: -30279189442672617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_57
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 547
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b87b095577d8cf0800000000000000
+      internalID: -248411195051635904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_58
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 511
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e423f36e40956f0800000000000000
+      internalID: -695519280502780355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_59
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 541
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9935ed42ad55b5c0800000000000000
+      internalID: -4200348125780166246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb196d6b408afbf0800000000000000
+      internalID: -289778164565468183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3442d072c331cd460800000000000000
+      internalID: 7267705047743276099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb29cf472deea180800000000000000
+      internalID: -9102077043771102225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_63
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df783523303ea30800000000000000
+      internalID: 4243238788597808540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c052e126183590000800000000000000
+      internalID: 2625089952425228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc8ccfe9acc99c0800000000000000
+      internalID: -3919034791524512859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_66
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fb1d25e58beaaf0800000000000000
+      internalID: -383166203023999181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b387cccbc6e13ff0800000000000000
+      internalID: -58011557190728783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_68
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b36b80b70a7d280800000000000000
+      internalID: -9018563278498546944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_69
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8964c471fb55a0440800000000000000
+      internalID: 4902825423564195480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_70
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6fdbdd1f4ab72f0800000000000000
+      internalID: -974003535681292576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_71
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add9f7389c08ac70800000000000000
+      internalID: 8982443304704138661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_72
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 290
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab3b74730b4a840800000000000000
+      internalID: 5234502418384009780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_73
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 255
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad397efdd9d9b40800000000000000
+      internalID: 5448684709176662706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_74
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 286
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d87fa25cf419210800000000000000
+      internalID: 1337938272553766147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_75
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 291
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e69e8098dfd870800000000000000
+      internalID: 8709918319736971374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_76
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 255
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c008cc0acdf850800000000000000
+      internalID: 6412503600689365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_77
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 286
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200eabde47221b340800000000000000
+      internalID: 4877717757018955778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_78
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 291
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce520975de1d400a0800000000000000
+      internalID: -6916172310427720212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_79
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 255
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8749f3a36bd0dcd10800000000000000
+      internalID: 2147387673638048888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_80
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 285
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50c310626d44f40800000000000000
+      internalID: 5711925686130443764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95136705620adb8d0800000000000000
+      internalID: -2828928904499678887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_82
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7155781a2d3fe9e0800000000000000
+      internalID: -1589984892430233219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b22a4276f67a70800000000000000
+      internalID: 8824511490609558101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_84
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c245cc5290f220800000000000000
+      internalID: 2517673118844240964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_85
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 251
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4377fbb19112cc8a0800000000000000
+      internalID: -6283610988365252812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_86
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c61d005f2ff9ac70800000000000000
+      internalID: 8982991510438745792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_87
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32a59223ba678e0800000000000000
+      internalID: -1695979977727925310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_88
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6ee48fe8a1d450800000000000000
+      internalID: 6111851915999342044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafen_89
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9be727cccb195f0800000000000000
+      internalID: -751612076513904204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Leafen_0: 9000110529279786819
+      Leafen_1: -6745678682572505027
+      Leafen_10: 8653985160342393330
+      Leafen_11: 4219735845455686405
+      Leafen_12: -3771631469403427739
+      Leafen_13: 546375050258643028
+      Leafen_14: -3700346053417783829
+      Leafen_15: -4586158604079123653
+      Leafen_16: 2309560360205700968
+      Leafen_17: -2635022475993281143
+      Leafen_18: -4989724833539081275
+      Leafen_19: -5101105220751562756
+      Leafen_2: 8848973045774602145
+      Leafen_20: -3722977240934904851
+      Leafen_21: 4176663355622644397
+      Leafen_22: -5180620391691584386
+      Leafen_23: -4585091462217358090
+      Leafen_24: 3302302700235246413
+      Leafen_25: -4775992425684404588
+      Leafen_26: 4744406096797669187
+      Leafen_27: -8174407004908295146
+      Leafen_28: 980584700425149756
+      Leafen_29: -1905826028547133091
+      Leafen_3: -7682364503175028668
+      Leafen_30: 6583348788137522683
+      Leafen_31: -2550361114913206793
+      Leafen_32: -3201986677009536944
+      Leafen_33: -168112846707820411
+      Leafen_34: 6620959782851111403
+      Leafen_35: 6416882235974305550
+      Leafen_36: 4884367306997336832
+      Leafen_37: -2942155951995409842
+      Leafen_38: 4447190994442257441
+      Leafen_39: 8906530651668892554
+      Leafen_4: -6149606460718412858
+      Leafen_40: 1412776389296793978
+      Leafen_41: 69055971923984396
+      Leafen_42: 1941128717924846452
+      Leafen_43: 7903578092738286316
+      Leafen_44: -2098466845609290352
+      Leafen_45: 4882729758284871929
+      Leafen_46: -3314646642024260499
+      Leafen_47: 2076069433028413385
+      Leafen_48: -2326153686920386519
+      Leafen_49: 3523241279043110505
+      Leafen_5: 8966758990868294959
+      Leafen_50: -1019635241303887561
+      Leafen_51: -4475334206384266390
+      Leafen_52: 214047166083423777
+      Leafen_53: -8201671895690292861
+      Leafen_54: -7531277753950862560
+      Leafen_55: -7516892539653762330
+      Leafen_56: -30279189442672617
+      Leafen_57: -248411195051635904
+      Leafen_58: -695519280502780355
+      Leafen_59: -4200348125780166246
+      Leafen_6: -450196400200811928
+      Leafen_60: -289778164565468183
+      Leafen_61: 7267705047743276099
+      Leafen_62: -9102077043771102225
+      Leafen_63: 4243238788597808540
+      Leafen_64: 2625089952425228
+      Leafen_65: -3919034791524512859
+      Leafen_66: -383166203023999181
+      Leafen_67: -58011557190728783
+      Leafen_68: -9018563278498546944
+      Leafen_69: 4902825423564195480
+      Leafen_7: -2558912486540913686
+      Leafen_70: -974003535681292576
+      Leafen_71: 8982443304704138661
+      Leafen_72: 5234502418384009780
+      Leafen_73: 5448684709176662706
+      Leafen_74: 1337938272553766147
+      Leafen_75: 8709918319736971374
+      Leafen_76: 6412503600689365529
+      Leafen_77: 4877717757018955778
+      Leafen_78: -6916172310427720212
+      Leafen_79: 2147387673638048888
+      Leafen_8: -7903360096413131475
+      Leafen_80: 5711925686130443764
+      Leafen_81: -2828928904499678887
+      Leafen_82: -1589984892430233219
+      Leafen_83: 8824511490609558101
+      Leafen_84: 2517673118844240964
+      Leafen_85: -6283610988365252812
+      Leafen_86: 8982991510438745792
+      Leafen_87: -1695979977727925310
+      Leafen_88: 6111851915999342044
+      Leafen_89: -751612076513904204
+      Leafen_9: 7817204492964543172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
